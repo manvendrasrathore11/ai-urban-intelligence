@@ -1,0 +1,6671 @@
+[
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4823,
+        "bounding_box": {
+            "x1": 262.22,
+            "y1": 224.34,
+            "x2": 384.49,
+            "y2": 276.65
+        },
+        "frame_number": 1,
+        "timestamp_seconds": 0.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4581,
+        "bounding_box": {
+            "x1": 245.64,
+            "y1": 224.6,
+            "x2": 384.26,
+            "y2": 282.06
+        },
+        "frame_number": 2,
+        "timestamp_seconds": 0.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4052,
+        "bounding_box": {
+            "x1": 250.25,
+            "y1": 228.43,
+            "x2": 383.62,
+            "y2": 284.54
+        },
+        "frame_number": 4,
+        "timestamp_seconds": 0.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6572,
+        "bounding_box": {
+            "x1": 317.71,
+            "y1": 268.13,
+            "x2": 608.47,
+            "y2": 355.27
+        },
+        "frame_number": 7,
+        "timestamp_seconds": 0.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4351,
+        "bounding_box": {
+            "x1": 252.84,
+            "y1": 264.05,
+            "x2": 370.42,
+            "y2": 299.23
+        },
+        "frame_number": 8,
+        "timestamp_seconds": 0.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4344,
+        "bounding_box": {
+            "x1": 312.39,
+            "y1": 271.44,
+            "x2": 609.21,
+            "y2": 346.35
+        },
+        "frame_number": 8,
+        "timestamp_seconds": 0.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5229,
+        "bounding_box": {
+            "x1": 314.28,
+            "y1": 273.54,
+            "x2": 611.91,
+            "y2": 340.4
+        },
+        "frame_number": 9,
+        "timestamp_seconds": 0.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4237,
+        "bounding_box": {
+            "x1": 245.38,
+            "y1": 255.07,
+            "x2": 366.7,
+            "y2": 297.89
+        },
+        "frame_number": 9,
+        "timestamp_seconds": 0.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5101,
+        "bounding_box": {
+            "x1": 764.17,
+            "y1": 255.35,
+            "x2": 862.35,
+            "y2": 296.29
+        },
+        "frame_number": 10,
+        "timestamp_seconds": 0.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4598,
+        "bounding_box": {
+            "x1": 719.62,
+            "y1": 317.33,
+            "x2": 780.74,
+            "y2": 341.86
+        },
+        "frame_number": 10,
+        "timestamp_seconds": 0.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.407,
+        "bounding_box": {
+            "x1": 336.1,
+            "y1": 276.59,
+            "x2": 612.2,
+            "y2": 335.25
+        },
+        "frame_number": 10,
+        "timestamp_seconds": 0.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5655,
+        "bounding_box": {
+            "x1": 768.81,
+            "y1": 256.26,
+            "x2": 866.2,
+            "y2": 298.23
+        },
+        "frame_number": 11,
+        "timestamp_seconds": 0.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5315,
+        "bounding_box": {
+            "x1": 346.84,
+            "y1": 280.45,
+            "x2": 618.44,
+            "y2": 336.51
+        },
+        "frame_number": 11,
+        "timestamp_seconds": 0.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4952,
+        "bounding_box": {
+            "x1": 232.48,
+            "y1": 268.81,
+            "x2": 358.62,
+            "y2": 307.22
+        },
+        "frame_number": 12,
+        "timestamp_seconds": 0.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4663,
+        "bounding_box": {
+            "x1": 234.68,
+            "y1": 272.95,
+            "x2": 360.72,
+            "y2": 312.28
+        },
+        "frame_number": 13,
+        "timestamp_seconds": 0.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4724,
+        "bounding_box": {
+            "x1": 238.92,
+            "y1": 276.26,
+            "x2": 359.34,
+            "y2": 313.53
+        },
+        "frame_number": 14,
+        "timestamp_seconds": 0.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6552,
+        "bounding_box": {
+            "x1": 345.67,
+            "y1": 293.65,
+            "x2": 618.46,
+            "y2": 346.18
+        },
+        "frame_number": 15,
+        "timestamp_seconds": 0.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4118,
+        "bounding_box": {
+            "x1": 224.24,
+            "y1": 280.08,
+            "x2": 353.6,
+            "y2": 314.97
+        },
+        "frame_number": 15,
+        "timestamp_seconds": 0.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6426,
+        "bounding_box": {
+            "x1": 352.63,
+            "y1": 293.68,
+            "x2": 619.67,
+            "y2": 349.62
+        },
+        "frame_number": 16,
+        "timestamp_seconds": 0.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4092,
+        "bounding_box": {
+            "x1": 222.5,
+            "y1": 282.74,
+            "x2": 350.47,
+            "y2": 317.72
+        },
+        "frame_number": 16,
+        "timestamp_seconds": 0.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6567,
+        "bounding_box": {
+            "x1": 739.48,
+            "y1": 348.27,
+            "x2": 811.04,
+            "y2": 379.38
+        },
+        "frame_number": 18,
+        "timestamp_seconds": 0.72
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.526,
+        "bounding_box": {
+            "x1": 790.09,
+            "y1": 273.24,
+            "x2": 891.56,
+            "y2": 318.05
+        },
+        "frame_number": 18,
+        "timestamp_seconds": 0.72
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.634,
+        "bounding_box": {
+            "x1": 209.1,
+            "y1": 290.04,
+            "x2": 341.0,
+            "y2": 329.17
+        },
+        "frame_number": 19,
+        "timestamp_seconds": 0.76
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5783,
+        "bounding_box": {
+            "x1": 341.01,
+            "y1": 305.85,
+            "x2": 619.16,
+            "y2": 353.15
+        },
+        "frame_number": 19,
+        "timestamp_seconds": 0.76
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6698,
+        "bounding_box": {
+            "x1": 205.95,
+            "y1": 291.94,
+            "x2": 331.6,
+            "y2": 329.79
+        },
+        "frame_number": 20,
+        "timestamp_seconds": 0.8
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5372,
+        "bounding_box": {
+            "x1": 332.43,
+            "y1": 307.28,
+            "x2": 617.1,
+            "y2": 359.25
+        },
+        "frame_number": 20,
+        "timestamp_seconds": 0.8
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.715,
+        "bounding_box": {
+            "x1": 340.27,
+            "y1": 311.77,
+            "x2": 615.78,
+            "y2": 364.76
+        },
+        "frame_number": 21,
+        "timestamp_seconds": 0.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7111,
+        "bounding_box": {
+            "x1": 202.97,
+            "y1": 296.23,
+            "x2": 328.54,
+            "y2": 332.61
+        },
+        "frame_number": 21,
+        "timestamp_seconds": 0.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6413,
+        "bounding_box": {
+            "x1": 186.19,
+            "y1": 299.44,
+            "x2": 327.6,
+            "y2": 340.37
+        },
+        "frame_number": 22,
+        "timestamp_seconds": 0.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.565,
+        "bounding_box": {
+            "x1": 338.22,
+            "y1": 316.76,
+            "x2": 617.42,
+            "y2": 374.25
+        },
+        "frame_number": 22,
+        "timestamp_seconds": 0.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6667,
+        "bounding_box": {
+            "x1": 327.76,
+            "y1": 317.52,
+            "x2": 616.5,
+            "y2": 379.88
+        },
+        "frame_number": 23,
+        "timestamp_seconds": 0.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6121,
+        "bounding_box": {
+            "x1": 180.98,
+            "y1": 303.75,
+            "x2": 322.19,
+            "y2": 342.61
+        },
+        "frame_number": 23,
+        "timestamp_seconds": 0.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5693,
+        "bounding_box": {
+            "x1": 180.16,
+            "y1": 306.17,
+            "x2": 318.26,
+            "y2": 345.03
+        },
+        "frame_number": 24,
+        "timestamp_seconds": 0.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5238,
+        "bounding_box": {
+            "x1": 317.17,
+            "y1": 320.81,
+            "x2": 614.22,
+            "y2": 379.94
+        },
+        "frame_number": 24,
+        "timestamp_seconds": 0.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5998,
+        "bounding_box": {
+            "x1": 338.55,
+            "y1": 326.94,
+            "x2": 619.18,
+            "y2": 389.64
+        },
+        "frame_number": 25,
+        "timestamp_seconds": 1.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5633,
+        "bounding_box": {
+            "x1": 180.35,
+            "y1": 311.53,
+            "x2": 298.15,
+            "y2": 347.4
+        },
+        "frame_number": 25,
+        "timestamp_seconds": 1.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.475,
+        "bounding_box": {
+            "x1": 807.56,
+            "y1": 293.98,
+            "x2": 914.73,
+            "y2": 337.5
+        },
+        "frame_number": 25,
+        "timestamp_seconds": 1.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5629,
+        "bounding_box": {
+            "x1": 320.86,
+            "y1": 331.61,
+            "x2": 617.67,
+            "y2": 392.89
+        },
+        "frame_number": 26,
+        "timestamp_seconds": 1.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4042,
+        "bounding_box": {
+            "x1": 176.01,
+            "y1": 316.8,
+            "x2": 296.61,
+            "y2": 352.36
+        },
+        "frame_number": 26,
+        "timestamp_seconds": 1.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4292,
+        "bounding_box": {
+            "x1": 294.42,
+            "y1": 334.56,
+            "x2": 619.8,
+            "y2": 400.15
+        },
+        "frame_number": 27,
+        "timestamp_seconds": 1.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.424,
+        "bounding_box": {
+            "x1": 809.6,
+            "y1": 301.92,
+            "x2": 918.04,
+            "y2": 344.08
+        },
+        "frame_number": 27,
+        "timestamp_seconds": 1.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5804,
+        "bounding_box": {
+            "x1": 355.98,
+            "y1": 342.09,
+            "x2": 616.41,
+            "y2": 417.86
+        },
+        "frame_number": 28,
+        "timestamp_seconds": 1.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.471,
+        "bounding_box": {
+            "x1": 754.24,
+            "y1": 400.28,
+            "x2": 852.34,
+            "y2": 446.74
+        },
+        "frame_number": 28,
+        "timestamp_seconds": 1.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4106,
+        "bounding_box": {
+            "x1": 163.35,
+            "y1": 324.52,
+            "x2": 279.88,
+            "y2": 361.07
+        },
+        "frame_number": 28,
+        "timestamp_seconds": 1.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5826,
+        "bounding_box": {
+            "x1": 158.13,
+            "y1": 328.72,
+            "x2": 282.18,
+            "y2": 366.68
+        },
+        "frame_number": 29,
+        "timestamp_seconds": 1.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5492,
+        "bounding_box": {
+            "x1": 351.43,
+            "y1": 346.13,
+            "x2": 619.53,
+            "y2": 420.38
+        },
+        "frame_number": 29,
+        "timestamp_seconds": 1.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5436,
+        "bounding_box": {
+            "x1": 759.21,
+            "y1": 406.26,
+            "x2": 859.21,
+            "y2": 452.6
+        },
+        "frame_number": 29,
+        "timestamp_seconds": 1.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6041,
+        "bounding_box": {
+            "x1": 318.1,
+            "y1": 348.83,
+            "x2": 621.49,
+            "y2": 431.0
+        },
+        "frame_number": 30,
+        "timestamp_seconds": 1.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4761,
+        "bounding_box": {
+            "x1": 765.85,
+            "y1": 409.19,
+            "x2": 861.06,
+            "y2": 456.35
+        },
+        "frame_number": 30,
+        "timestamp_seconds": 1.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4177,
+        "bounding_box": {
+            "x1": 150.62,
+            "y1": 330.54,
+            "x2": 275.66,
+            "y2": 369.75
+        },
+        "frame_number": 30,
+        "timestamp_seconds": 1.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6375,
+        "bounding_box": {
+            "x1": 769.99,
+            "y1": 417.06,
+            "x2": 864.21,
+            "y2": 461.69
+        },
+        "frame_number": 31,
+        "timestamp_seconds": 1.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4588,
+        "bounding_box": {
+            "x1": 819.97,
+            "y1": 315.14,
+            "x2": 935.05,
+            "y2": 358.19
+        },
+        "frame_number": 31,
+        "timestamp_seconds": 1.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.443,
+        "bounding_box": {
+            "x1": 140.31,
+            "y1": 332.74,
+            "x2": 271.38,
+            "y2": 369.82
+        },
+        "frame_number": 31,
+        "timestamp_seconds": 1.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6559,
+        "bounding_box": {
+            "x1": 319.64,
+            "y1": 359.2,
+            "x2": 617.69,
+            "y2": 428.28
+        },
+        "frame_number": 32,
+        "timestamp_seconds": 1.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5631,
+        "bounding_box": {
+            "x1": 126.76,
+            "y1": 339.88,
+            "x2": 258.47,
+            "y2": 380.29
+        },
+        "frame_number": 32,
+        "timestamp_seconds": 1.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7281,
+        "bounding_box": {
+            "x1": 778.66,
+            "y1": 433.62,
+            "x2": 877.47,
+            "y2": 485.19
+        },
+        "frame_number": 33,
+        "timestamp_seconds": 1.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6287,
+        "bounding_box": {
+            "x1": 120.18,
+            "y1": 342.76,
+            "x2": 256.91,
+            "y2": 382.26
+        },
+        "frame_number": 33,
+        "timestamp_seconds": 1.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5729,
+        "bounding_box": {
+            "x1": 288.71,
+            "y1": 362.53,
+            "x2": 617.89,
+            "y2": 439.95
+        },
+        "frame_number": 33,
+        "timestamp_seconds": 1.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6786,
+        "bounding_box": {
+            "x1": 779.25,
+            "y1": 438.38,
+            "x2": 881.5,
+            "y2": 490.28
+        },
+        "frame_number": 34,
+        "timestamp_seconds": 1.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.523,
+        "bounding_box": {
+            "x1": 115.43,
+            "y1": 346.97,
+            "x2": 256.54,
+            "y2": 391.16
+        },
+        "frame_number": 34,
+        "timestamp_seconds": 1.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7275,
+        "bounding_box": {
+            "x1": 783.78,
+            "y1": 452.17,
+            "x2": 887.97,
+            "y2": 505.04
+        },
+        "frame_number": 35,
+        "timestamp_seconds": 1.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7252,
+        "bounding_box": {
+            "x1": 101.53,
+            "y1": 350.1,
+            "x2": 243.0,
+            "y2": 397.11
+        },
+        "frame_number": 35,
+        "timestamp_seconds": 1.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.637,
+        "bounding_box": {
+            "x1": 287.72,
+            "y1": 376.72,
+            "x2": 617.56,
+            "y2": 459.52
+        },
+        "frame_number": 35,
+        "timestamp_seconds": 1.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7615,
+        "bounding_box": {
+            "x1": 789.28,
+            "y1": 454.45,
+            "x2": 892.2,
+            "y2": 515.28
+        },
+        "frame_number": 36,
+        "timestamp_seconds": 1.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7105,
+        "bounding_box": {
+            "x1": 92.74,
+            "y1": 354.52,
+            "x2": 233.52,
+            "y2": 399.36
+        },
+        "frame_number": 36,
+        "timestamp_seconds": 1.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5015,
+        "bounding_box": {
+            "x1": 274.36,
+            "y1": 378.92,
+            "x2": 617.76,
+            "y2": 466.09
+        },
+        "frame_number": 36,
+        "timestamp_seconds": 1.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7271,
+        "bounding_box": {
+            "x1": 794.05,
+            "y1": 462.93,
+            "x2": 899.98,
+            "y2": 520.35
+        },
+        "frame_number": 37,
+        "timestamp_seconds": 1.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7194,
+        "bounding_box": {
+            "x1": 81.54,
+            "y1": 360.21,
+            "x2": 229.46,
+            "y2": 406.78
+        },
+        "frame_number": 37,
+        "timestamp_seconds": 1.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7046,
+        "bounding_box": {
+            "x1": 274.88,
+            "y1": 380.46,
+            "x2": 618.76,
+            "y2": 481.16
+        },
+        "frame_number": 37,
+        "timestamp_seconds": 1.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7459,
+        "bounding_box": {
+            "x1": 80.56,
+            "y1": 366.86,
+            "x2": 213.69,
+            "y2": 413.05
+        },
+        "frame_number": 38,
+        "timestamp_seconds": 1.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7283,
+        "bounding_box": {
+            "x1": 799.74,
+            "y1": 475.35,
+            "x2": 904.52,
+            "y2": 538.57
+        },
+        "frame_number": 38,
+        "timestamp_seconds": 1.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4714,
+        "bounding_box": {
+            "x1": 280.39,
+            "y1": 391.77,
+            "x2": 612.31,
+            "y2": 493.93
+        },
+        "frame_number": 38,
+        "timestamp_seconds": 1.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7625,
+        "bounding_box": {
+            "x1": 800.95,
+            "y1": 485.67,
+            "x2": 912.28,
+            "y2": 549.06
+        },
+        "frame_number": 39,
+        "timestamp_seconds": 1.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6162,
+        "bounding_box": {
+            "x1": 9.05,
+            "y1": 389.96,
+            "x2": 615.29,
+            "y2": 522.14
+        },
+        "frame_number": 39,
+        "timestamp_seconds": 1.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5488,
+        "bounding_box": {
+            "x1": 70.49,
+            "y1": 371.37,
+            "x2": 208.68,
+            "y2": 418.14
+        },
+        "frame_number": 39,
+        "timestamp_seconds": 1.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7142,
+        "bounding_box": {
+            "x1": 802.74,
+            "y1": 491.74,
+            "x2": 919.33,
+            "y2": 556.4
+        },
+        "frame_number": 40,
+        "timestamp_seconds": 1.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4945,
+        "bounding_box": {
+            "x1": 251.24,
+            "y1": 402.05,
+            "x2": 615.31,
+            "y2": 512.16
+        },
+        "frame_number": 40,
+        "timestamp_seconds": 1.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4015,
+        "bounding_box": {
+            "x1": 9.12,
+            "y1": 394.96,
+            "x2": 618.12,
+            "y2": 527.39
+        },
+        "frame_number": 40,
+        "timestamp_seconds": 1.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7754,
+        "bounding_box": {
+            "x1": 805.68,
+            "y1": 497.58,
+            "x2": 928.4,
+            "y2": 568.63
+        },
+        "frame_number": 41,
+        "timestamp_seconds": 1.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6665,
+        "bounding_box": {
+            "x1": 49.05,
+            "y1": 383.82,
+            "x2": 192.84,
+            "y2": 432.23
+        },
+        "frame_number": 41,
+        "timestamp_seconds": 1.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6006,
+        "bounding_box": {
+            "x1": 76.73,
+            "y1": 286.78,
+            "x2": 273.52,
+            "y2": 351.83
+        },
+        "frame_number": 41,
+        "timestamp_seconds": 1.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5718,
+        "bounding_box": {
+            "x1": 847.32,
+            "y1": 348.56,
+            "x2": 988.13,
+            "y2": 404.11
+        },
+        "frame_number": 41,
+        "timestamp_seconds": 1.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4836,
+        "bounding_box": {
+            "x1": 263.59,
+            "y1": 406.84,
+            "x2": 620.61,
+            "y2": 518.84
+        },
+        "frame_number": 41,
+        "timestamp_seconds": 1.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5846,
+        "bounding_box": {
+            "x1": 809.73,
+            "y1": 510.91,
+            "x2": 937.58,
+            "y2": 587.81
+        },
+        "frame_number": 42,
+        "timestamp_seconds": 1.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4579,
+        "bounding_box": {
+            "x1": 282.69,
+            "y1": 411.35,
+            "x2": 623.28,
+            "y2": 532.99
+        },
+        "frame_number": 42,
+        "timestamp_seconds": 1.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5304,
+        "bounding_box": {
+            "x1": 277.44,
+            "y1": 423.24,
+            "x2": 618.89,
+            "y2": 537.6
+        },
+        "frame_number": 43,
+        "timestamp_seconds": 1.72
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5601,
+        "bounding_box": {
+            "x1": 308.34,
+            "y1": 436.0,
+            "x2": 617.76,
+            "y2": 578.51
+        },
+        "frame_number": 45,
+        "timestamp_seconds": 1.8
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4415,
+        "bounding_box": {
+            "x1": 299.14,
+            "y1": 436.99,
+            "x2": 622.52,
+            "y2": 592.02
+        },
+        "frame_number": 46,
+        "timestamp_seconds": 1.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7507,
+        "bounding_box": {
+            "x1": 845.1,
+            "y1": 559.16,
+            "x2": 994.61,
+            "y2": 657.4
+        },
+        "frame_number": 47,
+        "timestamp_seconds": 1.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4648,
+        "bounding_box": {
+            "x1": 0.0,
+            "y1": 439.33,
+            "x2": 617.54,
+            "y2": 617.47
+        },
+        "frame_number": 47,
+        "timestamp_seconds": 1.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4331,
+        "bounding_box": {
+            "x1": 277.76,
+            "y1": 461.07,
+            "x2": 620.8,
+            "y2": 614.33
+        },
+        "frame_number": 49,
+        "timestamp_seconds": 1.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4499,
+        "bounding_box": {
+            "x1": 296.79,
+            "y1": 467.99,
+            "x2": 653.73,
+            "y2": 680.74
+        },
+        "frame_number": 51,
+        "timestamp_seconds": 2.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7097,
+        "bounding_box": {
+            "x1": 15.96,
+            "y1": 506.13,
+            "x2": 663.4,
+            "y2": 715.14
+        },
+        "frame_number": 54,
+        "timestamp_seconds": 2.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4865,
+        "bounding_box": {
+            "x1": 0.2,
+            "y1": 325.79,
+            "x2": 195.09,
+            "y2": 437.61
+        },
+        "frame_number": 55,
+        "timestamp_seconds": 2.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5428,
+        "bounding_box": {
+            "x1": 672.52,
+            "y1": 299.16,
+            "x2": 776.79,
+            "y2": 341.48
+        },
+        "frame_number": 57,
+        "timestamp_seconds": 2.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5267,
+        "bounding_box": {
+            "x1": 344.64,
+            "y1": 552.65,
+            "x2": 675.87,
+            "y2": 717.26
+        },
+        "frame_number": 57,
+        "timestamp_seconds": 2.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5194,
+        "bounding_box": {
+            "x1": 962.58,
+            "y1": 438.49,
+            "x2": 1149.98,
+            "y2": 526.5
+        },
+        "frame_number": 57,
+        "timestamp_seconds": 2.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6879,
+        "bounding_box": {
+            "x1": 968.48,
+            "y1": 454.47,
+            "x2": 1164.93,
+            "y2": 548.29
+        },
+        "frame_number": 58,
+        "timestamp_seconds": 2.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.787,
+        "bounding_box": {
+            "x1": 319.85,
+            "y1": 596.32,
+            "x2": 648.7,
+            "y2": 718.31
+        },
+        "frame_number": 59,
+        "timestamp_seconds": 2.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7227,
+        "bounding_box": {
+            "x1": 271.16,
+            "y1": 605.99,
+            "x2": 644.21,
+            "y2": 719.28
+        },
+        "frame_number": 60,
+        "timestamp_seconds": 2.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.48,
+        "bounding_box": {
+            "x1": 680.91,
+            "y1": 312.52,
+            "x2": 790.65,
+            "y2": 357.95
+        },
+        "frame_number": 60,
+        "timestamp_seconds": 2.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.428,
+        "bounding_box": {
+            "x1": 994.69,
+            "y1": 468.12,
+            "x2": 1188.46,
+            "y2": 565.09
+        },
+        "frame_number": 60,
+        "timestamp_seconds": 2.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6715,
+        "bounding_box": {
+            "x1": 987.18,
+            "y1": 476.91,
+            "x2": 1194.46,
+            "y2": 577.73
+        },
+        "frame_number": 61,
+        "timestamp_seconds": 2.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5818,
+        "bounding_box": {
+            "x1": 685.89,
+            "y1": 322.32,
+            "x2": 795.79,
+            "y2": 370.76
+        },
+        "frame_number": 62,
+        "timestamp_seconds": 2.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7186,
+        "bounding_box": {
+            "x1": 687.29,
+            "y1": 323.87,
+            "x2": 798.41,
+            "y2": 376.86
+        },
+        "frame_number": 63,
+        "timestamp_seconds": 2.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6078,
+        "bounding_box": {
+            "x1": 684.76,
+            "y1": 327.39,
+            "x2": 803.42,
+            "y2": 380.58
+        },
+        "frame_number": 64,
+        "timestamp_seconds": 2.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6022,
+        "bounding_box": {
+            "x1": 1027.55,
+            "y1": 513.69,
+            "x2": 1264.52,
+            "y2": 633.19
+        },
+        "frame_number": 64,
+        "timestamp_seconds": 2.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6693,
+        "bounding_box": {
+            "x1": 684.54,
+            "y1": 336.64,
+            "x2": 805.47,
+            "y2": 391.29
+        },
+        "frame_number": 65,
+        "timestamp_seconds": 2.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6664,
+        "bounding_box": {
+            "x1": 685.67,
+            "y1": 335.7,
+            "x2": 811.2,
+            "y2": 396.44
+        },
+        "frame_number": 66,
+        "timestamp_seconds": 2.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5458,
+        "bounding_box": {
+            "x1": 683.06,
+            "y1": 339.06,
+            "x2": 816.03,
+            "y2": 402.74
+        },
+        "frame_number": 67,
+        "timestamp_seconds": 2.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4208,
+        "bounding_box": {
+            "x1": 0.0,
+            "y1": 391.97,
+            "x2": 100.83,
+            "y2": 559.82
+        },
+        "frame_number": 67,
+        "timestamp_seconds": 2.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7608,
+        "bounding_box": {
+            "x1": 698.55,
+            "y1": 352.29,
+            "x2": 818.84,
+            "y2": 411.71
+        },
+        "frame_number": 68,
+        "timestamp_seconds": 2.72
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7659,
+        "bounding_box": {
+            "x1": 695.41,
+            "y1": 353.86,
+            "x2": 825.13,
+            "y2": 418.19
+        },
+        "frame_number": 69,
+        "timestamp_seconds": 2.76
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7535,
+        "bounding_box": {
+            "x1": 701.78,
+            "y1": 358.14,
+            "x2": 826.58,
+            "y2": 421.99
+        },
+        "frame_number": 70,
+        "timestamp_seconds": 2.8
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7364,
+        "bounding_box": {
+            "x1": 700.86,
+            "y1": 362.11,
+            "x2": 832.16,
+            "y2": 424.42
+        },
+        "frame_number": 71,
+        "timestamp_seconds": 2.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7035,
+        "bounding_box": {
+            "x1": 703.71,
+            "y1": 368.78,
+            "x2": 840.15,
+            "y2": 436.46
+        },
+        "frame_number": 72,
+        "timestamp_seconds": 2.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7188,
+        "bounding_box": {
+            "x1": 711.47,
+            "y1": 375.28,
+            "x2": 844.27,
+            "y2": 445.02
+        },
+        "frame_number": 73,
+        "timestamp_seconds": 2.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5073,
+        "bounding_box": {
+            "x1": 716.51,
+            "y1": 379.71,
+            "x2": 847.93,
+            "y2": 450.97
+        },
+        "frame_number": 74,
+        "timestamp_seconds": 2.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6748,
+        "bounding_box": {
+            "x1": 712.74,
+            "y1": 388.58,
+            "x2": 861.98,
+            "y2": 462.5
+        },
+        "frame_number": 75,
+        "timestamp_seconds": 3.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7061,
+        "bounding_box": {
+            "x1": 717.51,
+            "y1": 392.81,
+            "x2": 866.68,
+            "y2": 471.82
+        },
+        "frame_number": 76,
+        "timestamp_seconds": 3.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5379,
+        "bounding_box": {
+            "x1": 716.28,
+            "y1": 392.04,
+            "x2": 870.83,
+            "y2": 482.12
+        },
+        "frame_number": 77,
+        "timestamp_seconds": 3.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7432,
+        "bounding_box": {
+            "x1": 725.85,
+            "y1": 412.05,
+            "x2": 888.19,
+            "y2": 493.5
+        },
+        "frame_number": 78,
+        "timestamp_seconds": 3.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4167,
+        "bounding_box": {
+            "x1": 728.2,
+            "y1": 417.14,
+            "x2": 891.43,
+            "y2": 501.24
+        },
+        "frame_number": 79,
+        "timestamp_seconds": 3.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6828,
+        "bounding_box": {
+            "x1": 726.94,
+            "y1": 420.74,
+            "x2": 896.01,
+            "y2": 508.57
+        },
+        "frame_number": 80,
+        "timestamp_seconds": 3.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4223,
+        "bounding_box": {
+            "x1": 732.75,
+            "y1": 427.2,
+            "x2": 901.65,
+            "y2": 520.47
+        },
+        "frame_number": 81,
+        "timestamp_seconds": 3.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.787,
+        "bounding_box": {
+            "x1": 743.61,
+            "y1": 443.16,
+            "x2": 916.49,
+            "y2": 539.71
+        },
+        "frame_number": 82,
+        "timestamp_seconds": 3.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.543,
+        "bounding_box": {
+            "x1": 739.01,
+            "y1": 449.71,
+            "x2": 924.6,
+            "y2": 554.94
+        },
+        "frame_number": 83,
+        "timestamp_seconds": 3.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5047,
+        "bounding_box": {
+            "x1": 741.49,
+            "y1": 455.55,
+            "x2": 932.77,
+            "y2": 564.48
+        },
+        "frame_number": 84,
+        "timestamp_seconds": 3.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6498,
+        "bounding_box": {
+            "x1": 748.84,
+            "y1": 475.6,
+            "x2": 944.98,
+            "y2": 579.36
+        },
+        "frame_number": 85,
+        "timestamp_seconds": 3.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4977,
+        "bounding_box": {
+            "x1": 750.57,
+            "y1": 479.09,
+            "x2": 953.59,
+            "y2": 585.54
+        },
+        "frame_number": 86,
+        "timestamp_seconds": 3.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7534,
+        "bounding_box": {
+            "x1": 756.35,
+            "y1": 489.14,
+            "x2": 957.17,
+            "y2": 605.27
+        },
+        "frame_number": 87,
+        "timestamp_seconds": 3.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7124,
+        "bounding_box": {
+            "x1": 772.2,
+            "y1": 518.68,
+            "x2": 988.26,
+            "y2": 649.55
+        },
+        "frame_number": 89,
+        "timestamp_seconds": 3.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7195,
+        "bounding_box": {
+            "x1": 775.93,
+            "y1": 524.01,
+            "x2": 999.14,
+            "y2": 659.74
+        },
+        "frame_number": 90,
+        "timestamp_seconds": 3.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8586,
+        "bounding_box": {
+            "x1": 788.23,
+            "y1": 538.64,
+            "x2": 1002.56,
+            "y2": 659.75
+        },
+        "frame_number": 91,
+        "timestamp_seconds": 3.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7021,
+        "bounding_box": {
+            "x1": 792.65,
+            "y1": 560.71,
+            "x2": 1027.64,
+            "y2": 694.06
+        },
+        "frame_number": 92,
+        "timestamp_seconds": 3.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4254,
+        "bounding_box": {
+            "x1": 734.28,
+            "y1": 312.38,
+            "x2": 820.98,
+            "y2": 351.05
+        },
+        "frame_number": 103,
+        "timestamp_seconds": 4.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5597,
+        "bounding_box": {
+            "x1": 732.98,
+            "y1": 312.53,
+            "x2": 824.59,
+            "y2": 352.09
+        },
+        "frame_number": 104,
+        "timestamp_seconds": 4.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5241,
+        "bounding_box": {
+            "x1": 780.33,
+            "y1": 355.0,
+            "x2": 888.03,
+            "y2": 411.0
+        },
+        "frame_number": 114,
+        "timestamp_seconds": 4.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4776,
+        "bounding_box": {
+            "x1": 785.12,
+            "y1": 367.98,
+            "x2": 902.62,
+            "y2": 423.76
+        },
+        "frame_number": 116,
+        "timestamp_seconds": 4.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4582,
+        "bounding_box": {
+            "x1": 790.67,
+            "y1": 372.01,
+            "x2": 909.77,
+            "y2": 429.42
+        },
+        "frame_number": 117,
+        "timestamp_seconds": 4.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6893,
+        "bounding_box": {
+            "x1": 225.32,
+            "y1": 286.18,
+            "x2": 406.97,
+            "y2": 350.93
+        },
+        "frame_number": 118,
+        "timestamp_seconds": 4.72
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4555,
+        "bounding_box": {
+            "x1": 802.71,
+            "y1": 383.46,
+            "x2": 917.72,
+            "y2": 432.28
+        },
+        "frame_number": 118,
+        "timestamp_seconds": 4.72
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7109,
+        "bounding_box": {
+            "x1": 220.23,
+            "y1": 289.57,
+            "x2": 403.75,
+            "y2": 353.89
+        },
+        "frame_number": 119,
+        "timestamp_seconds": 4.76
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6502,
+        "bounding_box": {
+            "x1": 209.78,
+            "y1": 292.38,
+            "x2": 402.96,
+            "y2": 356.33
+        },
+        "frame_number": 120,
+        "timestamp_seconds": 4.8
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6943,
+        "bounding_box": {
+            "x1": 207.67,
+            "y1": 295.39,
+            "x2": 398.11,
+            "y2": 359.11
+        },
+        "frame_number": 121,
+        "timestamp_seconds": 4.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6735,
+        "bounding_box": {
+            "x1": 206.31,
+            "y1": 299.74,
+            "x2": 395.95,
+            "y2": 367.48
+        },
+        "frame_number": 122,
+        "timestamp_seconds": 4.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6175,
+        "bounding_box": {
+            "x1": 199.49,
+            "y1": 303.41,
+            "x2": 403.98,
+            "y2": 372.28
+        },
+        "frame_number": 123,
+        "timestamp_seconds": 4.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7262,
+        "bounding_box": {
+            "x1": 194.5,
+            "y1": 306.12,
+            "x2": 398.14,
+            "y2": 378.23
+        },
+        "frame_number": 124,
+        "timestamp_seconds": 4.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5659,
+        "bounding_box": {
+            "x1": 181.47,
+            "y1": 314.52,
+            "x2": 394.05,
+            "y2": 386.39
+        },
+        "frame_number": 125,
+        "timestamp_seconds": 5.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4006,
+        "bounding_box": {
+            "x1": 936.41,
+            "y1": 518.21,
+            "x2": 1122.64,
+            "y2": 637.89
+        },
+        "frame_number": 125,
+        "timestamp_seconds": 5.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4695,
+        "bounding_box": {
+            "x1": 186.71,
+            "y1": 317.32,
+            "x2": 397.2,
+            "y2": 388.05
+        },
+        "frame_number": 126,
+        "timestamp_seconds": 5.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5488,
+        "bounding_box": {
+            "x1": 180.84,
+            "y1": 319.89,
+            "x2": 393.43,
+            "y2": 394.37
+        },
+        "frame_number": 127,
+        "timestamp_seconds": 5.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4416,
+        "bounding_box": {
+            "x1": 163.8,
+            "y1": 327.46,
+            "x2": 380.68,
+            "y2": 408.1
+        },
+        "frame_number": 129,
+        "timestamp_seconds": 5.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5473,
+        "bounding_box": {
+            "x1": 142.65,
+            "y1": 329.27,
+            "x2": 381.88,
+            "y2": 417.15
+        },
+        "frame_number": 130,
+        "timestamp_seconds": 5.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7895,
+        "bounding_box": {
+            "x1": 146.04,
+            "y1": 332.17,
+            "x2": 382.54,
+            "y2": 421.78
+        },
+        "frame_number": 131,
+        "timestamp_seconds": 5.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7971,
+        "bounding_box": {
+            "x1": 131.03,
+            "y1": 339.53,
+            "x2": 381.0,
+            "y2": 432.0
+        },
+        "frame_number": 132,
+        "timestamp_seconds": 5.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7557,
+        "bounding_box": {
+            "x1": 124.94,
+            "y1": 343.87,
+            "x2": 372.54,
+            "y2": 438.28
+        },
+        "frame_number": 133,
+        "timestamp_seconds": 5.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7895,
+        "bounding_box": {
+            "x1": 111.8,
+            "y1": 346.04,
+            "x2": 360.85,
+            "y2": 446.39
+        },
+        "frame_number": 134,
+        "timestamp_seconds": 5.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7432,
+        "bounding_box": {
+            "x1": 115.53,
+            "y1": 355.53,
+            "x2": 359.69,
+            "y2": 454.94
+        },
+        "frame_number": 135,
+        "timestamp_seconds": 5.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7557,
+        "bounding_box": {
+            "x1": 96.37,
+            "y1": 361.28,
+            "x2": 349.73,
+            "y2": 460.15
+        },
+        "frame_number": 136,
+        "timestamp_seconds": 5.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7862,
+        "bounding_box": {
+            "x1": 89.98,
+            "y1": 364.2,
+            "x2": 347.23,
+            "y2": 468.73
+        },
+        "frame_number": 137,
+        "timestamp_seconds": 5.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7487,
+        "bounding_box": {
+            "x1": 67.82,
+            "y1": 372.11,
+            "x2": 328.72,
+            "y2": 486.81
+        },
+        "frame_number": 138,
+        "timestamp_seconds": 5.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4257,
+        "bounding_box": {
+            "x1": 309.52,
+            "y1": 252.38,
+            "x2": 480.18,
+            "y2": 306.99
+        },
+        "frame_number": 139,
+        "timestamp_seconds": 5.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7515,
+        "bounding_box": {
+            "x1": 39.9,
+            "y1": 378.76,
+            "x2": 321.47,
+            "y2": 503.77
+        },
+        "frame_number": 140,
+        "timestamp_seconds": 5.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5109,
+        "bounding_box": {
+            "x1": 300.1,
+            "y1": 250.52,
+            "x2": 484.42,
+            "y2": 308.56
+        },
+        "frame_number": 140,
+        "timestamp_seconds": 5.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6768,
+        "bounding_box": {
+            "x1": 295.58,
+            "y1": 251.4,
+            "x2": 498.98,
+            "y2": 314.04
+        },
+        "frame_number": 141,
+        "timestamp_seconds": 5.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7913,
+        "bounding_box": {
+            "x1": 21.09,
+            "y1": 395.32,
+            "x2": 308.38,
+            "y2": 526.9
+        },
+        "frame_number": 142,
+        "timestamp_seconds": 5.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6388,
+        "bounding_box": {
+            "x1": 289.39,
+            "y1": 254.97,
+            "x2": 498.89,
+            "y2": 322.19
+        },
+        "frame_number": 142,
+        "timestamp_seconds": 5.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6884,
+        "bounding_box": {
+            "x1": 13.03,
+            "y1": 399.79,
+            "x2": 297.74,
+            "y2": 537.89
+        },
+        "frame_number": 143,
+        "timestamp_seconds": 5.72
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6773,
+        "bounding_box": {
+            "x1": 291.35,
+            "y1": 255.57,
+            "x2": 515.04,
+            "y2": 334.43
+        },
+        "frame_number": 143,
+        "timestamp_seconds": 5.72
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.708,
+        "bounding_box": {
+            "x1": 281.03,
+            "y1": 259.01,
+            "x2": 484.01,
+            "y2": 324.39
+        },
+        "frame_number": 144,
+        "timestamp_seconds": 5.76
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6071,
+        "bounding_box": {
+            "x1": 13.45,
+            "y1": 404.95,
+            "x2": 293.94,
+            "y2": 541.07
+        },
+        "frame_number": 144,
+        "timestamp_seconds": 5.76
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6068,
+        "bounding_box": {
+            "x1": 269.83,
+            "y1": 261.61,
+            "x2": 497.44,
+            "y2": 336.71
+        },
+        "frame_number": 145,
+        "timestamp_seconds": 5.8
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5735,
+        "bounding_box": {
+            "x1": 269.32,
+            "y1": 265.87,
+            "x2": 485.18,
+            "y2": 336.94
+        },
+        "frame_number": 146,
+        "timestamp_seconds": 5.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.631,
+        "bounding_box": {
+            "x1": 263.39,
+            "y1": 270.72,
+            "x2": 480.08,
+            "y2": 338.0
+        },
+        "frame_number": 147,
+        "timestamp_seconds": 5.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6485,
+        "bounding_box": {
+            "x1": 254.52,
+            "y1": 271.55,
+            "x2": 471.3,
+            "y2": 342.56
+        },
+        "frame_number": 148,
+        "timestamp_seconds": 5.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7018,
+        "bounding_box": {
+            "x1": 253.51,
+            "y1": 273.23,
+            "x2": 478.68,
+            "y2": 347.6
+        },
+        "frame_number": 149,
+        "timestamp_seconds": 5.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4236,
+        "bounding_box": {
+            "x1": 255.07,
+            "y1": 275.98,
+            "x2": 489.94,
+            "y2": 354.26
+        },
+        "frame_number": 150,
+        "timestamp_seconds": 6.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5552,
+        "bounding_box": {
+            "x1": 254.65,
+            "y1": 276.4,
+            "x2": 475.14,
+            "y2": 354.2
+        },
+        "frame_number": 151,
+        "timestamp_seconds": 6.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7554,
+        "bounding_box": {
+            "x1": 241.0,
+            "y1": 283.8,
+            "x2": 475.92,
+            "y2": 359.89
+        },
+        "frame_number": 152,
+        "timestamp_seconds": 6.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7101,
+        "bounding_box": {
+            "x1": 240.11,
+            "y1": 288.3,
+            "x2": 472.13,
+            "y2": 364.59
+        },
+        "frame_number": 153,
+        "timestamp_seconds": 6.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7127,
+        "bounding_box": {
+            "x1": 238.93,
+            "y1": 291.07,
+            "x2": 475.52,
+            "y2": 371.64
+        },
+        "frame_number": 154,
+        "timestamp_seconds": 6.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.572,
+        "bounding_box": {
+            "x1": 229.89,
+            "y1": 294.44,
+            "x2": 463.02,
+            "y2": 381.27
+        },
+        "frame_number": 155,
+        "timestamp_seconds": 6.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5835,
+        "bounding_box": {
+            "x1": 223.73,
+            "y1": 296.65,
+            "x2": 466.83,
+            "y2": 387.1
+        },
+        "frame_number": 156,
+        "timestamp_seconds": 6.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4626,
+        "bounding_box": {
+            "x1": 217.82,
+            "y1": 304.43,
+            "x2": 462.44,
+            "y2": 399.13
+        },
+        "frame_number": 158,
+        "timestamp_seconds": 6.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6688,
+        "bounding_box": {
+            "x1": 215.25,
+            "y1": 313.42,
+            "x2": 456.87,
+            "y2": 402.18
+        },
+        "frame_number": 159,
+        "timestamp_seconds": 6.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6449,
+        "bounding_box": {
+            "x1": 188.76,
+            "y1": 317.88,
+            "x2": 453.0,
+            "y2": 414.73
+        },
+        "frame_number": 162,
+        "timestamp_seconds": 6.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.568,
+        "bounding_box": {
+            "x1": 174.95,
+            "y1": 320.6,
+            "x2": 435.92,
+            "y2": 424.95
+        },
+        "frame_number": 164,
+        "timestamp_seconds": 6.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4726,
+        "bounding_box": {
+            "x1": 349.1,
+            "y1": 250.07,
+            "x2": 543.25,
+            "y2": 310.39
+        },
+        "frame_number": 173,
+        "timestamp_seconds": 6.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4641,
+        "bounding_box": {
+            "x1": 392.65,
+            "y1": 171.86,
+            "x2": 483.51,
+            "y2": 203.42
+        },
+        "frame_number": 174,
+        "timestamp_seconds": 6.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6294,
+        "bounding_box": {
+            "x1": 389.18,
+            "y1": 173.45,
+            "x2": 480.03,
+            "y2": 205.89
+        },
+        "frame_number": 176,
+        "timestamp_seconds": 7.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6591,
+        "bounding_box": {
+            "x1": 387.37,
+            "y1": 172.7,
+            "x2": 479.53,
+            "y2": 207.37
+        },
+        "frame_number": 177,
+        "timestamp_seconds": 7.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5736,
+        "bounding_box": {
+            "x1": 385.98,
+            "y1": 173.57,
+            "x2": 479.23,
+            "y2": 208.67
+        },
+        "frame_number": 178,
+        "timestamp_seconds": 7.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.688,
+        "bounding_box": {
+            "x1": 386.09,
+            "y1": 173.25,
+            "x2": 478.47,
+            "y2": 210.17
+        },
+        "frame_number": 179,
+        "timestamp_seconds": 7.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5769,
+        "bounding_box": {
+            "x1": 385.1,
+            "y1": 173.69,
+            "x2": 478.63,
+            "y2": 210.27
+        },
+        "frame_number": 180,
+        "timestamp_seconds": 7.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5416,
+        "bounding_box": {
+            "x1": 379.83,
+            "y1": 175.28,
+            "x2": 475.6,
+            "y2": 211.78
+        },
+        "frame_number": 182,
+        "timestamp_seconds": 7.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5552,
+        "bounding_box": {
+            "x1": 381.82,
+            "y1": 175.62,
+            "x2": 473.08,
+            "y2": 213.36
+        },
+        "frame_number": 183,
+        "timestamp_seconds": 7.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4962,
+        "bounding_box": {
+            "x1": 379.07,
+            "y1": 176.02,
+            "x2": 473.41,
+            "y2": 214.12
+        },
+        "frame_number": 184,
+        "timestamp_seconds": 7.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4153,
+        "bounding_box": {
+            "x1": 376.53,
+            "y1": 176.73,
+            "x2": 473.67,
+            "y2": 216.04
+        },
+        "frame_number": 185,
+        "timestamp_seconds": 7.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6606,
+        "bounding_box": {
+            "x1": 372.94,
+            "y1": 183.35,
+            "x2": 469.77,
+            "y2": 215.93
+        },
+        "frame_number": 189,
+        "timestamp_seconds": 7.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7119,
+        "bounding_box": {
+            "x1": 371.0,
+            "y1": 185.56,
+            "x2": 468.67,
+            "y2": 217.1
+        },
+        "frame_number": 190,
+        "timestamp_seconds": 7.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6266,
+        "bounding_box": {
+            "x1": 372.5,
+            "y1": 184.98,
+            "x2": 468.22,
+            "y2": 217.36
+        },
+        "frame_number": 191,
+        "timestamp_seconds": 7.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6369,
+        "bounding_box": {
+            "x1": 368.92,
+            "y1": 186.5,
+            "x2": 467.54,
+            "y2": 220.48
+        },
+        "frame_number": 192,
+        "timestamp_seconds": 7.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.735,
+        "bounding_box": {
+            "x1": 365.95,
+            "y1": 187.74,
+            "x2": 466.34,
+            "y2": 224.55
+        },
+        "frame_number": 194,
+        "timestamp_seconds": 7.76
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6282,
+        "bounding_box": {
+            "x1": 363.72,
+            "y1": 191.41,
+            "x2": 466.0,
+            "y2": 225.52
+        },
+        "frame_number": 195,
+        "timestamp_seconds": 7.8
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7466,
+        "bounding_box": {
+            "x1": 680.57,
+            "y1": 524.55,
+            "x2": 863.3,
+            "y2": 617.52
+        },
+        "frame_number": 196,
+        "timestamp_seconds": 7.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5508,
+        "bounding_box": {
+            "x1": 362.39,
+            "y1": 192.11,
+            "x2": 464.76,
+            "y2": 229.33
+        },
+        "frame_number": 196,
+        "timestamp_seconds": 7.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4502,
+        "bounding_box": {
+            "x1": 209.07,
+            "y1": 316.68,
+            "x2": 581.67,
+            "y2": 407.46
+        },
+        "frame_number": 196,
+        "timestamp_seconds": 7.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5944,
+        "bounding_box": {
+            "x1": 361.72,
+            "y1": 193.64,
+            "x2": 464.66,
+            "y2": 227.95
+        },
+        "frame_number": 197,
+        "timestamp_seconds": 7.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4245,
+        "bounding_box": {
+            "x1": 198.88,
+            "y1": 331.31,
+            "x2": 594.94,
+            "y2": 430.58
+        },
+        "frame_number": 199,
+        "timestamp_seconds": 7.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4165,
+        "bounding_box": {
+            "x1": 194.17,
+            "y1": 334.95,
+            "x2": 592.67,
+            "y2": 436.71
+        },
+        "frame_number": 200,
+        "timestamp_seconds": 8.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4136,
+        "bounding_box": {
+            "x1": 343.64,
+            "y1": 204.17,
+            "x2": 457.73,
+            "y2": 243.77
+        },
+        "frame_number": 206,
+        "timestamp_seconds": 8.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4115,
+        "bounding_box": {
+            "x1": 341.68,
+            "y1": 205.95,
+            "x2": 456.19,
+            "y2": 246.82
+        },
+        "frame_number": 207,
+        "timestamp_seconds": 8.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5296,
+        "bounding_box": {
+            "x1": 308.18,
+            "y1": 233.86,
+            "x2": 442.03,
+            "y2": 282.16
+        },
+        "frame_number": 222,
+        "timestamp_seconds": 8.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6655,
+        "bounding_box": {
+            "x1": 601.94,
+            "y1": 398.46,
+            "x2": 711.64,
+            "y2": 461.39
+        },
+        "frame_number": 225,
+        "timestamp_seconds": 9.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6188,
+        "bounding_box": {
+            "x1": 383.55,
+            "y1": 298.11,
+            "x2": 569.57,
+            "y2": 349.65
+        },
+        "frame_number": 230,
+        "timestamp_seconds": 9.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5419,
+        "bounding_box": {
+            "x1": 383.83,
+            "y1": 301.34,
+            "x2": 568.87,
+            "y2": 352.71
+        },
+        "frame_number": 231,
+        "timestamp_seconds": 9.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5103,
+        "bounding_box": {
+            "x1": 259.16,
+            "y1": 259.09,
+            "x2": 419.18,
+            "y2": 312.77
+        },
+        "frame_number": 236,
+        "timestamp_seconds": 9.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5666,
+        "bounding_box": {
+            "x1": 256.04,
+            "y1": 261.6,
+            "x2": 418.88,
+            "y2": 316.3
+        },
+        "frame_number": 237,
+        "timestamp_seconds": 9.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6143,
+        "bounding_box": {
+            "x1": 634.91,
+            "y1": 534.85,
+            "x2": 782.29,
+            "y2": 629.88
+        },
+        "frame_number": 238,
+        "timestamp_seconds": 9.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4081,
+        "bounding_box": {
+            "x1": 252.07,
+            "y1": 265.11,
+            "x2": 417.49,
+            "y2": 319.17
+        },
+        "frame_number": 238,
+        "timestamp_seconds": 9.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.513,
+        "bounding_box": {
+            "x1": 247.78,
+            "y1": 266.98,
+            "x2": 416.55,
+            "y2": 323.34
+        },
+        "frame_number": 239,
+        "timestamp_seconds": 9.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4821,
+        "bounding_box": {
+            "x1": 642.63,
+            "y1": 540.13,
+            "x2": 783.61,
+            "y2": 644.98
+        },
+        "frame_number": 239,
+        "timestamp_seconds": 9.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5625,
+        "bounding_box": {
+            "x1": 241.55,
+            "y1": 269.28,
+            "x2": 415.36,
+            "y2": 325.78
+        },
+        "frame_number": 240,
+        "timestamp_seconds": 9.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7606,
+        "bounding_box": {
+            "x1": 234.41,
+            "y1": 276.07,
+            "x2": 408.54,
+            "y2": 337.67
+        },
+        "frame_number": 242,
+        "timestamp_seconds": 9.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6493,
+        "bounding_box": {
+            "x1": 229.27,
+            "y1": 279.04,
+            "x2": 407.62,
+            "y2": 342.9
+        },
+        "frame_number": 243,
+        "timestamp_seconds": 9.72
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.725,
+        "bounding_box": {
+            "x1": 225.16,
+            "y1": 280.23,
+            "x2": 406.24,
+            "y2": 345.22
+        },
+        "frame_number": 244,
+        "timestamp_seconds": 9.76
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7868,
+        "bounding_box": {
+            "x1": 214.55,
+            "y1": 285.26,
+            "x2": 401.35,
+            "y2": 351.87
+        },
+        "frame_number": 245,
+        "timestamp_seconds": 9.8
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7947,
+        "bounding_box": {
+            "x1": 209.29,
+            "y1": 286.98,
+            "x2": 401.1,
+            "y2": 354.42
+        },
+        "frame_number": 246,
+        "timestamp_seconds": 9.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.793,
+        "bounding_box": {
+            "x1": 208.86,
+            "y1": 289.06,
+            "x2": 399.71,
+            "y2": 361.69
+        },
+        "frame_number": 247,
+        "timestamp_seconds": 9.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7014,
+        "bounding_box": {
+            "x1": 305.89,
+            "y1": 372.84,
+            "x2": 588.04,
+            "y2": 451.19
+        },
+        "frame_number": 247,
+        "timestamp_seconds": 9.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7903,
+        "bounding_box": {
+            "x1": 198.23,
+            "y1": 295.05,
+            "x2": 395.35,
+            "y2": 364.41
+        },
+        "frame_number": 248,
+        "timestamp_seconds": 9.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7736,
+        "bounding_box": {
+            "x1": 297.82,
+            "y1": 379.72,
+            "x2": 605.44,
+            "y2": 466.08
+        },
+        "frame_number": 248,
+        "timestamp_seconds": 9.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7848,
+        "bounding_box": {
+            "x1": 196.02,
+            "y1": 296.23,
+            "x2": 392.21,
+            "y2": 370.64
+        },
+        "frame_number": 249,
+        "timestamp_seconds": 9.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7649,
+        "bounding_box": {
+            "x1": 295.24,
+            "y1": 384.9,
+            "x2": 603.78,
+            "y2": 477.36
+        },
+        "frame_number": 249,
+        "timestamp_seconds": 9.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7866,
+        "bounding_box": {
+            "x1": 193.18,
+            "y1": 299.84,
+            "x2": 390.35,
+            "y2": 380.29
+        },
+        "frame_number": 250,
+        "timestamp_seconds": 10.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7632,
+        "bounding_box": {
+            "x1": 293.32,
+            "y1": 388.32,
+            "x2": 608.23,
+            "y2": 487.85
+        },
+        "frame_number": 250,
+        "timestamp_seconds": 10.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7933,
+        "bounding_box": {
+            "x1": 191.41,
+            "y1": 303.9,
+            "x2": 388.29,
+            "y2": 378.13
+        },
+        "frame_number": 251,
+        "timestamp_seconds": 10.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7724,
+        "bounding_box": {
+            "x1": 285.79,
+            "y1": 394.75,
+            "x2": 612.63,
+            "y2": 495.9
+        },
+        "frame_number": 251,
+        "timestamp_seconds": 10.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7999,
+        "bounding_box": {
+            "x1": 177.67,
+            "y1": 308.39,
+            "x2": 380.21,
+            "y2": 384.33
+        },
+        "frame_number": 252,
+        "timestamp_seconds": 10.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7836,
+        "bounding_box": {
+            "x1": 277.29,
+            "y1": 408.4,
+            "x2": 600.84,
+            "y2": 510.83
+        },
+        "frame_number": 252,
+        "timestamp_seconds": 10.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7963,
+        "bounding_box": {
+            "x1": 178.9,
+            "y1": 313.24,
+            "x2": 379.2,
+            "y2": 392.95
+        },
+        "frame_number": 253,
+        "timestamp_seconds": 10.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7723,
+        "bounding_box": {
+            "x1": 273.24,
+            "y1": 414.76,
+            "x2": 604.58,
+            "y2": 523.89
+        },
+        "frame_number": 253,
+        "timestamp_seconds": 10.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7921,
+        "bounding_box": {
+            "x1": 270.12,
+            "y1": 421.87,
+            "x2": 606.97,
+            "y2": 533.21
+        },
+        "frame_number": 254,
+        "timestamp_seconds": 10.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7807,
+        "bounding_box": {
+            "x1": 173.09,
+            "y1": 318.75,
+            "x2": 377.17,
+            "y2": 386.21
+        },
+        "frame_number": 254,
+        "timestamp_seconds": 10.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8086,
+        "bounding_box": {
+            "x1": 164.87,
+            "y1": 323.31,
+            "x2": 374.17,
+            "y2": 411.45
+        },
+        "frame_number": 255,
+        "timestamp_seconds": 10.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7773,
+        "bounding_box": {
+            "x1": 256.38,
+            "y1": 437.26,
+            "x2": 615.81,
+            "y2": 559.93
+        },
+        "frame_number": 255,
+        "timestamp_seconds": 10.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8087,
+        "bounding_box": {
+            "x1": 157.74,
+            "y1": 325.92,
+            "x2": 371.78,
+            "y2": 408.86
+        },
+        "frame_number": 256,
+        "timestamp_seconds": 10.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8042,
+        "bounding_box": {
+            "x1": 248.87,
+            "y1": 442.59,
+            "x2": 612.67,
+            "y2": 570.7
+        },
+        "frame_number": 256,
+        "timestamp_seconds": 10.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8016,
+        "bounding_box": {
+            "x1": 150.06,
+            "y1": 329.2,
+            "x2": 368.02,
+            "y2": 417.0
+        },
+        "frame_number": 257,
+        "timestamp_seconds": 10.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7693,
+        "bounding_box": {
+            "x1": 242.17,
+            "y1": 448.51,
+            "x2": 612.5,
+            "y2": 583.16
+        },
+        "frame_number": 257,
+        "timestamp_seconds": 10.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8252,
+        "bounding_box": {
+            "x1": 136.06,
+            "y1": 338.42,
+            "x2": 363.27,
+            "y2": 424.88
+        },
+        "frame_number": 258,
+        "timestamp_seconds": 10.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8135,
+        "bounding_box": {
+            "x1": 232.7,
+            "y1": 468.87,
+            "x2": 631.42,
+            "y2": 609.24
+        },
+        "frame_number": 258,
+        "timestamp_seconds": 10.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8366,
+        "bounding_box": {
+            "x1": 223.92,
+            "y1": 478.4,
+            "x2": 633.0,
+            "y2": 628.05
+        },
+        "frame_number": 259,
+        "timestamp_seconds": 10.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8356,
+        "bounding_box": {
+            "x1": 131.66,
+            "y1": 341.64,
+            "x2": 362.91,
+            "y2": 436.47
+        },
+        "frame_number": 259,
+        "timestamp_seconds": 10.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8487,
+        "bounding_box": {
+            "x1": 222.4,
+            "y1": 492.01,
+            "x2": 636.42,
+            "y2": 638.8
+        },
+        "frame_number": 260,
+        "timestamp_seconds": 10.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8274,
+        "bounding_box": {
+            "x1": 132.41,
+            "y1": 346.98,
+            "x2": 358.77,
+            "y2": 443.61
+        },
+        "frame_number": 260,
+        "timestamp_seconds": 10.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8313,
+        "bounding_box": {
+            "x1": 207.42,
+            "y1": 501.59,
+            "x2": 630.97,
+            "y2": 651.08
+        },
+        "frame_number": 261,
+        "timestamp_seconds": 10.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8181,
+        "bounding_box": {
+            "x1": 116.55,
+            "y1": 346.89,
+            "x2": 357.17,
+            "y2": 445.87
+        },
+        "frame_number": 261,
+        "timestamp_seconds": 10.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8094,
+        "bounding_box": {
+            "x1": 98.07,
+            "y1": 361.46,
+            "x2": 347.73,
+            "y2": 475.52
+        },
+        "frame_number": 262,
+        "timestamp_seconds": 10.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7006,
+        "bounding_box": {
+            "x1": 182.52,
+            "y1": 508.01,
+            "x2": 644.9,
+            "y2": 689.04
+        },
+        "frame_number": 262,
+        "timestamp_seconds": 10.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.835,
+        "bounding_box": {
+            "x1": 95.33,
+            "y1": 369.74,
+            "x2": 345.33,
+            "y2": 490.25
+        },
+        "frame_number": 263,
+        "timestamp_seconds": 10.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8724,
+        "bounding_box": {
+            "x1": 161.88,
+            "y1": 529.54,
+            "x2": 676.96,
+            "y2": 713.73
+        },
+        "frame_number": 264,
+        "timestamp_seconds": 10.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8428,
+        "bounding_box": {
+            "x1": 89.76,
+            "y1": 369.42,
+            "x2": 345.59,
+            "y2": 499.32
+        },
+        "frame_number": 264,
+        "timestamp_seconds": 10.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8331,
+        "bounding_box": {
+            "x1": 66.73,
+            "y1": 371.89,
+            "x2": 339.84,
+            "y2": 507.71
+        },
+        "frame_number": 265,
+        "timestamp_seconds": 10.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7938,
+        "bounding_box": {
+            "x1": 53.88,
+            "y1": 375.52,
+            "x2": 334.84,
+            "y2": 525.71
+        },
+        "frame_number": 266,
+        "timestamp_seconds": 10.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7854,
+        "bounding_box": {
+            "x1": 45.58,
+            "y1": 379.87,
+            "x2": 330.38,
+            "y2": 538.85
+        },
+        "frame_number": 267,
+        "timestamp_seconds": 10.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7539,
+        "bounding_box": {
+            "x1": 14.02,
+            "y1": 381.37,
+            "x2": 322.83,
+            "y2": 535.69
+        },
+        "frame_number": 268,
+        "timestamp_seconds": 10.72
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8153,
+        "bounding_box": {
+            "x1": 9.6,
+            "y1": 389.68,
+            "x2": 320.48,
+            "y2": 559.57
+        },
+        "frame_number": 269,
+        "timestamp_seconds": 10.76
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8213,
+        "bounding_box": {
+            "x1": 9.78,
+            "y1": 394.27,
+            "x2": 316.61,
+            "y2": 571.98
+        },
+        "frame_number": 270,
+        "timestamp_seconds": 10.8
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8457,
+        "bounding_box": {
+            "x1": 12.21,
+            "y1": 412.42,
+            "x2": 307.12,
+            "y2": 549.64
+        },
+        "frame_number": 271,
+        "timestamp_seconds": 10.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8421,
+        "bounding_box": {
+            "x1": 4.09,
+            "y1": 422.04,
+            "x2": 298.51,
+            "y2": 573.61
+        },
+        "frame_number": 272,
+        "timestamp_seconds": 10.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8257,
+        "bounding_box": {
+            "x1": 1.32,
+            "y1": 427.64,
+            "x2": 295.45,
+            "y2": 590.82
+        },
+        "frame_number": 273,
+        "timestamp_seconds": 10.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8471,
+        "bounding_box": {
+            "x1": 1.22,
+            "y1": 433.27,
+            "x2": 290.47,
+            "y2": 603.16
+        },
+        "frame_number": 274,
+        "timestamp_seconds": 10.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8046,
+        "bounding_box": {
+            "x1": 0.19,
+            "y1": 436.48,
+            "x2": 281.6,
+            "y2": 626.61
+        },
+        "frame_number": 275,
+        "timestamp_seconds": 11.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8383,
+        "bounding_box": {
+            "x1": 1.07,
+            "y1": 453.94,
+            "x2": 272.45,
+            "y2": 659.72
+        },
+        "frame_number": 276,
+        "timestamp_seconds": 11.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8513,
+        "bounding_box": {
+            "x1": 1.51,
+            "y1": 459.07,
+            "x2": 262.86,
+            "y2": 661.12
+        },
+        "frame_number": 277,
+        "timestamp_seconds": 11.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8292,
+        "bounding_box": {
+            "x1": 1.58,
+            "y1": 481.75,
+            "x2": 249.43,
+            "y2": 697.61
+        },
+        "frame_number": 278,
+        "timestamp_seconds": 11.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8523,
+        "bounding_box": {
+            "x1": 0.72,
+            "y1": 492.32,
+            "x2": 241.74,
+            "y2": 709.58
+        },
+        "frame_number": 279,
+        "timestamp_seconds": 11.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8332,
+        "bounding_box": {
+            "x1": 0.94,
+            "y1": 499.52,
+            "x2": 234.9,
+            "y2": 715.63
+        },
+        "frame_number": 280,
+        "timestamp_seconds": 11.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8054,
+        "bounding_box": {
+            "x1": 0.25,
+            "y1": 516.95,
+            "x2": 224.15,
+            "y2": 719.56
+        },
+        "frame_number": 281,
+        "timestamp_seconds": 11.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.484,
+        "bounding_box": {
+            "x1": 0.0,
+            "y1": 533.38,
+            "x2": 195.01,
+            "y2": 717.34
+        },
+        "frame_number": 282,
+        "timestamp_seconds": 11.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.438,
+        "bounding_box": {
+            "x1": 0.0,
+            "y1": 560.88,
+            "x2": 173.25,
+            "y2": 714.19
+        },
+        "frame_number": 284,
+        "timestamp_seconds": 11.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4959,
+        "bounding_box": {
+            "x1": 371.68,
+            "y1": 299.8,
+            "x2": 509.81,
+            "y2": 337.55
+        },
+        "frame_number": 314,
+        "timestamp_seconds": 12.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6476,
+        "bounding_box": {
+            "x1": 227.93,
+            "y1": 555.27,
+            "x2": 638.48,
+            "y2": 704.54
+        },
+        "frame_number": 315,
+        "timestamp_seconds": 12.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7303,
+        "bounding_box": {
+            "x1": 256.27,
+            "y1": 567.22,
+            "x2": 638.49,
+            "y2": 717.75
+        },
+        "frame_number": 316,
+        "timestamp_seconds": 12.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7979,
+        "bounding_box": {
+            "x1": 252.55,
+            "y1": 584.91,
+            "x2": 636.26,
+            "y2": 717.9
+        },
+        "frame_number": 317,
+        "timestamp_seconds": 12.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4188,
+        "bounding_box": {
+            "x1": 458.67,
+            "y1": 259.0,
+            "x2": 633.77,
+            "y2": 297.2
+        },
+        "frame_number": 321,
+        "timestamp_seconds": 12.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4261,
+        "bounding_box": {
+            "x1": 268.04,
+            "y1": 359.31,
+            "x2": 536.43,
+            "y2": 423.58
+        },
+        "frame_number": 325,
+        "timestamp_seconds": 13.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4702,
+        "bounding_box": {
+            "x1": 444.48,
+            "y1": 269.88,
+            "x2": 802.03,
+            "y2": 339.09
+        },
+        "frame_number": 327,
+        "timestamp_seconds": 13.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6283,
+        "bounding_box": {
+            "x1": 441.47,
+            "y1": 281.98,
+            "x2": 656.2,
+            "y2": 344.31
+        },
+        "frame_number": 328,
+        "timestamp_seconds": 13.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4187,
+        "bounding_box": {
+            "x1": 226.5,
+            "y1": 389.49,
+            "x2": 529.53,
+            "y2": 465.74
+        },
+        "frame_number": 329,
+        "timestamp_seconds": 13.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6885,
+        "bounding_box": {
+            "x1": 439.13,
+            "y1": 284.87,
+            "x2": 822.33,
+            "y2": 358.52
+        },
+        "frame_number": 330,
+        "timestamp_seconds": 13.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5243,
+        "bounding_box": {
+            "x1": 198.13,
+            "y1": 404.32,
+            "x2": 527.02,
+            "y2": 494.1
+        },
+        "frame_number": 331,
+        "timestamp_seconds": 13.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5143,
+        "bounding_box": {
+            "x1": 435.57,
+            "y1": 287.64,
+            "x2": 823.61,
+            "y2": 362.37
+        },
+        "frame_number": 331,
+        "timestamp_seconds": 13.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.601,
+        "bounding_box": {
+            "x1": 436.52,
+            "y1": 293.13,
+            "x2": 837.08,
+            "y2": 375.92
+        },
+        "frame_number": 332,
+        "timestamp_seconds": 13.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4399,
+        "bounding_box": {
+            "x1": 847.09,
+            "y1": 422.83,
+            "x2": 979.33,
+            "y2": 471.64
+        },
+        "frame_number": 332,
+        "timestamp_seconds": 13.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7146,
+        "bounding_box": {
+            "x1": 435.96,
+            "y1": 295.96,
+            "x2": 837.34,
+            "y2": 380.69
+        },
+        "frame_number": 333,
+        "timestamp_seconds": 13.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5006,
+        "bounding_box": {
+            "x1": 837.32,
+            "y1": 428.6,
+            "x2": 991.23,
+            "y2": 479.65
+        },
+        "frame_number": 333,
+        "timestamp_seconds": 13.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7435,
+        "bounding_box": {
+            "x1": 435.72,
+            "y1": 300.01,
+            "x2": 847.49,
+            "y2": 388.05
+        },
+        "frame_number": 334,
+        "timestamp_seconds": 13.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5327,
+        "bounding_box": {
+            "x1": 845.32,
+            "y1": 437.79,
+            "x2": 1010.55,
+            "y2": 492.33
+        },
+        "frame_number": 334,
+        "timestamp_seconds": 13.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7753,
+        "bounding_box": {
+            "x1": 425.67,
+            "y1": 309.31,
+            "x2": 849.32,
+            "y2": 398.56
+        },
+        "frame_number": 335,
+        "timestamp_seconds": 13.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7677,
+        "bounding_box": {
+            "x1": 168.01,
+            "y1": 455.07,
+            "x2": 538.21,
+            "y2": 575.15
+        },
+        "frame_number": 335,
+        "timestamp_seconds": 13.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6469,
+        "bounding_box": {
+            "x1": 862.34,
+            "y1": 454.29,
+            "x2": 1023.37,
+            "y2": 511.73
+        },
+        "frame_number": 335,
+        "timestamp_seconds": 13.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7703,
+        "bounding_box": {
+            "x1": 154.5,
+            "y1": 467.04,
+            "x2": 531.78,
+            "y2": 583.44
+        },
+        "frame_number": 336,
+        "timestamp_seconds": 13.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7661,
+        "bounding_box": {
+            "x1": 424.59,
+            "y1": 315.44,
+            "x2": 854.06,
+            "y2": 402.26
+        },
+        "frame_number": 336,
+        "timestamp_seconds": 13.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7332,
+        "bounding_box": {
+            "x1": 884.18,
+            "y1": 465.67,
+            "x2": 1036.1,
+            "y2": 525.93
+        },
+        "frame_number": 336,
+        "timestamp_seconds": 13.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7601,
+        "bounding_box": {
+            "x1": 160.05,
+            "y1": 479.33,
+            "x2": 519.42,
+            "y2": 599.52
+        },
+        "frame_number": 337,
+        "timestamp_seconds": 13.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7201,
+        "bounding_box": {
+            "x1": 426.78,
+            "y1": 319.33,
+            "x2": 865.26,
+            "y2": 413.4
+        },
+        "frame_number": 337,
+        "timestamp_seconds": 13.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7112,
+        "bounding_box": {
+            "x1": 891.04,
+            "y1": 472.26,
+            "x2": 1050.16,
+            "y2": 537.05
+        },
+        "frame_number": 337,
+        "timestamp_seconds": 13.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7988,
+        "bounding_box": {
+            "x1": 136.43,
+            "y1": 499.38,
+            "x2": 524.9,
+            "y2": 630.72
+        },
+        "frame_number": 338,
+        "timestamp_seconds": 13.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7405,
+        "bounding_box": {
+            "x1": 923.75,
+            "y1": 498.6,
+            "x2": 1073.62,
+            "y2": 567.6
+        },
+        "frame_number": 338,
+        "timestamp_seconds": 13.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5004,
+        "bounding_box": {
+            "x1": 416.72,
+            "y1": 322.64,
+            "x2": 880.42,
+            "y2": 416.76
+        },
+        "frame_number": 338,
+        "timestamp_seconds": 13.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8012,
+        "bounding_box": {
+            "x1": 120.36,
+            "y1": 505.23,
+            "x2": 531.47,
+            "y2": 648.82
+        },
+        "frame_number": 339,
+        "timestamp_seconds": 13.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7408,
+        "bounding_box": {
+            "x1": 933.41,
+            "y1": 508.37,
+            "x2": 1089.11,
+            "y2": 580.42
+        },
+        "frame_number": 339,
+        "timestamp_seconds": 13.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8179,
+        "bounding_box": {
+            "x1": 122.51,
+            "y1": 521.87,
+            "x2": 516.42,
+            "y2": 667.62
+        },
+        "frame_number": 340,
+        "timestamp_seconds": 13.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7588,
+        "bounding_box": {
+            "x1": 944.99,
+            "y1": 521.45,
+            "x2": 1104.54,
+            "y2": 596.18
+        },
+        "frame_number": 340,
+        "timestamp_seconds": 13.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5201,
+        "bounding_box": {
+            "x1": 418.81,
+            "y1": 333.66,
+            "x2": 874.64,
+            "y2": 439.84
+        },
+        "frame_number": 340,
+        "timestamp_seconds": 13.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8215,
+        "bounding_box": {
+            "x1": 115.36,
+            "y1": 542.99,
+            "x2": 486.32,
+            "y2": 687.52
+        },
+        "frame_number": 341,
+        "timestamp_seconds": 13.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7429,
+        "bounding_box": {
+            "x1": 951.35,
+            "y1": 531.82,
+            "x2": 1120.58,
+            "y2": 613.04
+        },
+        "frame_number": 341,
+        "timestamp_seconds": 13.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7331,
+        "bounding_box": {
+            "x1": 408.13,
+            "y1": 340.01,
+            "x2": 879.53,
+            "y2": 445.21
+        },
+        "frame_number": 341,
+        "timestamp_seconds": 13.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8014,
+        "bounding_box": {
+            "x1": 982.83,
+            "y1": 558.63,
+            "x2": 1156.43,
+            "y2": 650.92
+        },
+        "frame_number": 342,
+        "timestamp_seconds": 13.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4216,
+        "bounding_box": {
+            "x1": 405.27,
+            "y1": 349.59,
+            "x2": 892.51,
+            "y2": 459.67
+        },
+        "frame_number": 342,
+        "timestamp_seconds": 13.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8108,
+        "bounding_box": {
+            "x1": 1000.11,
+            "y1": 573.84,
+            "x2": 1183.57,
+            "y2": 671.95
+        },
+        "frame_number": 343,
+        "timestamp_seconds": 13.72
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7883,
+        "bounding_box": {
+            "x1": 403.32,
+            "y1": 357.73,
+            "x2": 911.24,
+            "y2": 485.89
+        },
+        "frame_number": 344,
+        "timestamp_seconds": 13.76
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7745,
+        "bounding_box": {
+            "x1": 1020.8,
+            "y1": 590.49,
+            "x2": 1193.36,
+            "y2": 685.08
+        },
+        "frame_number": 344,
+        "timestamp_seconds": 13.76
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6764,
+        "bounding_box": {
+            "x1": 767.13,
+            "y1": 304.43,
+            "x2": 893.85,
+            "y2": 348.87
+        },
+        "frame_number": 344,
+        "timestamp_seconds": 13.76
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6317,
+        "bounding_box": {
+            "x1": 392.65,
+            "y1": 363.82,
+            "x2": 932.86,
+            "y2": 522.61
+        },
+        "frame_number": 345,
+        "timestamp_seconds": 13.8
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.707,
+        "bounding_box": {
+            "x1": 756.76,
+            "y1": 429.13,
+            "x2": 931.81,
+            "y2": 496.36
+        },
+        "frame_number": 346,
+        "timestamp_seconds": 13.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4188,
+        "bounding_box": {
+            "x1": 774.42,
+            "y1": 323.44,
+            "x2": 907.37,
+            "y2": 363.61
+        },
+        "frame_number": 346,
+        "timestamp_seconds": 13.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6952,
+        "bounding_box": {
+            "x1": 744.18,
+            "y1": 434.26,
+            "x2": 936.41,
+            "y2": 504.82
+        },
+        "frame_number": 347,
+        "timestamp_seconds": 13.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6437,
+        "bounding_box": {
+            "x1": 775.83,
+            "y1": 322.58,
+            "x2": 914.83,
+            "y2": 368.29
+        },
+        "frame_number": 347,
+        "timestamp_seconds": 13.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4394,
+        "bounding_box": {
+            "x1": 378.75,
+            "y1": 380.62,
+            "x2": 716.75,
+            "y2": 512.71
+        },
+        "frame_number": 347,
+        "timestamp_seconds": 13.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6833,
+        "bounding_box": {
+            "x1": 756.93,
+            "y1": 451.54,
+            "x2": 961.19,
+            "y2": 525.04
+        },
+        "frame_number": 348,
+        "timestamp_seconds": 13.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4772,
+        "bounding_box": {
+            "x1": 782.15,
+            "y1": 331.38,
+            "x2": 928.6,
+            "y2": 377.93
+        },
+        "frame_number": 348,
+        "timestamp_seconds": 13.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6955,
+        "bounding_box": {
+            "x1": 763.89,
+            "y1": 461.58,
+            "x2": 966.92,
+            "y2": 536.75
+        },
+        "frame_number": 349,
+        "timestamp_seconds": 13.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6038,
+        "bounding_box": {
+            "x1": 780.45,
+            "y1": 334.94,
+            "x2": 932.92,
+            "y2": 384.63
+        },
+        "frame_number": 349,
+        "timestamp_seconds": 13.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4452,
+        "bounding_box": {
+            "x1": 374.48,
+            "y1": 406.99,
+            "x2": 787.8,
+            "y2": 565.88
+        },
+        "frame_number": 349,
+        "timestamp_seconds": 13.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5951,
+        "bounding_box": {
+            "x1": 778.25,
+            "y1": 473.88,
+            "x2": 978.34,
+            "y2": 553.6
+        },
+        "frame_number": 350,
+        "timestamp_seconds": 14.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6999,
+        "bounding_box": {
+            "x1": 778.44,
+            "y1": 486.11,
+            "x2": 986.13,
+            "y2": 567.48
+        },
+        "frame_number": 351,
+        "timestamp_seconds": 14.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5989,
+        "bounding_box": {
+            "x1": 801.9,
+            "y1": 346.44,
+            "x2": 951.86,
+            "y2": 396.02
+        },
+        "frame_number": 351,
+        "timestamp_seconds": 14.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7135,
+        "bounding_box": {
+            "x1": 785.4,
+            "y1": 359.19,
+            "x2": 964.94,
+            "y2": 415.28
+        },
+        "frame_number": 352,
+        "timestamp_seconds": 14.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6761,
+        "bounding_box": {
+            "x1": 802.84,
+            "y1": 504.28,
+            "x2": 1012.5,
+            "y2": 587.25
+        },
+        "frame_number": 352,
+        "timestamp_seconds": 14.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7014,
+        "bounding_box": {
+            "x1": 801.72,
+            "y1": 518.47,
+            "x2": 1027.78,
+            "y2": 605.78
+        },
+        "frame_number": 353,
+        "timestamp_seconds": 14.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6739,
+        "bounding_box": {
+            "x1": 789.76,
+            "y1": 366.08,
+            "x2": 971.77,
+            "y2": 421.59
+        },
+        "frame_number": 353,
+        "timestamp_seconds": 14.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6203,
+        "bounding_box": {
+            "x1": 798.37,
+            "y1": 370.12,
+            "x2": 985.64,
+            "y2": 428.0
+        },
+        "frame_number": 354,
+        "timestamp_seconds": 14.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5943,
+        "bounding_box": {
+            "x1": 821.22,
+            "y1": 535.71,
+            "x2": 1046.03,
+            "y2": 624.48
+        },
+        "frame_number": 354,
+        "timestamp_seconds": 14.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5211,
+        "bounding_box": {
+            "x1": 306.25,
+            "y1": 461.5,
+            "x2": 687.79,
+            "y2": 675.23
+        },
+        "frame_number": 354,
+        "timestamp_seconds": 14.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5085,
+        "bounding_box": {
+            "x1": 791.38,
+            "y1": 387.36,
+            "x2": 999.71,
+            "y2": 445.92
+        },
+        "frame_number": 355,
+        "timestamp_seconds": 14.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4047,
+        "bounding_box": {
+            "x1": 859.67,
+            "y1": 561.85,
+            "x2": 1080.91,
+            "y2": 664.07
+        },
+        "frame_number": 355,
+        "timestamp_seconds": 14.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4631,
+        "bounding_box": {
+            "x1": 798.36,
+            "y1": 392.64,
+            "x2": 1014.52,
+            "y2": 452.59
+        },
+        "frame_number": 356,
+        "timestamp_seconds": 14.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4694,
+        "bounding_box": {
+            "x1": 815.07,
+            "y1": 397.42,
+            "x2": 1020.55,
+            "y2": 462.34
+        },
+        "frame_number": 357,
+        "timestamp_seconds": 14.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4161,
+        "bounding_box": {
+            "x1": 913.35,
+            "y1": 599.58,
+            "x2": 1124.16,
+            "y2": 710.35
+        },
+        "frame_number": 357,
+        "timestamp_seconds": 14.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7221,
+        "bounding_box": {
+            "x1": 781.9,
+            "y1": 407.82,
+            "x2": 1043.66,
+            "y2": 484.06
+        },
+        "frame_number": 358,
+        "timestamp_seconds": 14.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7413,
+        "bounding_box": {
+            "x1": 817.93,
+            "y1": 418.39,
+            "x2": 1052.82,
+            "y2": 493.33
+        },
+        "frame_number": 359,
+        "timestamp_seconds": 14.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6874,
+        "bounding_box": {
+            "x1": 831.77,
+            "y1": 427.73,
+            "x2": 1059.02,
+            "y2": 504.82
+        },
+        "frame_number": 360,
+        "timestamp_seconds": 14.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5589,
+        "bounding_box": {
+            "x1": 798.35,
+            "y1": 433.6,
+            "x2": 1077.76,
+            "y2": 517.78
+        },
+        "frame_number": 361,
+        "timestamp_seconds": 14.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5815,
+        "bounding_box": {
+            "x1": 876.05,
+            "y1": 454.99,
+            "x2": 1100.91,
+            "y2": 539.56
+        },
+        "frame_number": 362,
+        "timestamp_seconds": 14.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7396,
+        "bounding_box": {
+            "x1": 413.59,
+            "y1": 622.37,
+            "x2": 811.26,
+            "y2": 717.66
+        },
+        "frame_number": 363,
+        "timestamp_seconds": 14.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7243,
+        "bounding_box": {
+            "x1": 851.05,
+            "y1": 462.79,
+            "x2": 1103.21,
+            "y2": 554.57
+        },
+        "frame_number": 363,
+        "timestamp_seconds": 14.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7937,
+        "bounding_box": {
+            "x1": 899.96,
+            "y1": 470.55,
+            "x2": 1128.48,
+            "y2": 573.94
+        },
+        "frame_number": 364,
+        "timestamp_seconds": 14.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6562,
+        "bounding_box": {
+            "x1": 422.43,
+            "y1": 645.34,
+            "x2": 795.86,
+            "y2": 719.79
+        },
+        "frame_number": 364,
+        "timestamp_seconds": 14.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4226,
+        "bounding_box": {
+            "x1": 412.15,
+            "y1": 183.86,
+            "x2": 498.31,
+            "y2": 217.37
+        },
+        "frame_number": 415,
+        "timestamp_seconds": 16.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5262,
+        "bounding_box": {
+            "x1": 371.12,
+            "y1": 195.74,
+            "x2": 502.25,
+            "y2": 232.78
+        },
+        "frame_number": 422,
+        "timestamp_seconds": 16.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5113,
+        "bounding_box": {
+            "x1": 377.83,
+            "y1": 196.41,
+            "x2": 499.66,
+            "y2": 232.67
+        },
+        "frame_number": 423,
+        "timestamp_seconds": 16.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5942,
+        "bounding_box": {
+            "x1": 395.46,
+            "y1": 199.49,
+            "x2": 507.06,
+            "y2": 234.08
+        },
+        "frame_number": 424,
+        "timestamp_seconds": 16.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4819,
+        "bounding_box": {
+            "x1": 401.8,
+            "y1": 202.19,
+            "x2": 502.66,
+            "y2": 235.27
+        },
+        "frame_number": 425,
+        "timestamp_seconds": 17.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5636,
+        "bounding_box": {
+            "x1": 386.81,
+            "y1": 202.07,
+            "x2": 505.65,
+            "y2": 236.09
+        },
+        "frame_number": 426,
+        "timestamp_seconds": 17.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5833,
+        "bounding_box": {
+            "x1": 378.23,
+            "y1": 205.79,
+            "x2": 497.98,
+            "y2": 241.48
+        },
+        "frame_number": 428,
+        "timestamp_seconds": 17.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7198,
+        "bounding_box": {
+            "x1": 373.52,
+            "y1": 207.13,
+            "x2": 502.73,
+            "y2": 244.07
+        },
+        "frame_number": 429,
+        "timestamp_seconds": 17.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6633,
+        "bounding_box": {
+            "x1": 374.89,
+            "y1": 208.05,
+            "x2": 503.83,
+            "y2": 245.44
+        },
+        "frame_number": 430,
+        "timestamp_seconds": 17.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6412,
+        "bounding_box": {
+            "x1": 371.97,
+            "y1": 211.34,
+            "x2": 506.39,
+            "y2": 248.86
+        },
+        "frame_number": 431,
+        "timestamp_seconds": 17.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6034,
+        "bounding_box": {
+            "x1": 378.04,
+            "y1": 213.47,
+            "x2": 509.09,
+            "y2": 253.58
+        },
+        "frame_number": 432,
+        "timestamp_seconds": 17.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6515,
+        "bounding_box": {
+            "x1": 376.14,
+            "y1": 214.89,
+            "x2": 505.72,
+            "y2": 255.1
+        },
+        "frame_number": 433,
+        "timestamp_seconds": 17.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6354,
+        "bounding_box": {
+            "x1": 369.8,
+            "y1": 218.02,
+            "x2": 501.96,
+            "y2": 256.86
+        },
+        "frame_number": 434,
+        "timestamp_seconds": 17.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7155,
+        "bounding_box": {
+            "x1": 367.84,
+            "y1": 223.53,
+            "x2": 507.62,
+            "y2": 261.14
+        },
+        "frame_number": 435,
+        "timestamp_seconds": 17.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7367,
+        "bounding_box": {
+            "x1": 361.82,
+            "y1": 224.58,
+            "x2": 507.17,
+            "y2": 263.14
+        },
+        "frame_number": 436,
+        "timestamp_seconds": 17.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7405,
+        "bounding_box": {
+            "x1": 361.64,
+            "y1": 223.54,
+            "x2": 496.91,
+            "y2": 264.83
+        },
+        "frame_number": 437,
+        "timestamp_seconds": 17.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7207,
+        "bounding_box": {
+            "x1": 362.31,
+            "y1": 227.65,
+            "x2": 490.93,
+            "y2": 267.09
+        },
+        "frame_number": 438,
+        "timestamp_seconds": 17.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7478,
+        "bounding_box": {
+            "x1": 356.27,
+            "y1": 229.58,
+            "x2": 498.25,
+            "y2": 268.13
+        },
+        "frame_number": 439,
+        "timestamp_seconds": 17.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7511,
+        "bounding_box": {
+            "x1": 349.83,
+            "y1": 231.68,
+            "x2": 489.94,
+            "y2": 269.15
+        },
+        "frame_number": 440,
+        "timestamp_seconds": 17.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4542,
+        "bounding_box": {
+            "x1": 0.0,
+            "y1": 270.61,
+            "x2": 312.78,
+            "y2": 441.51
+        },
+        "frame_number": 440,
+        "timestamp_seconds": 17.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7262,
+        "bounding_box": {
+            "x1": 359.21,
+            "y1": 230.61,
+            "x2": 490.94,
+            "y2": 269.33
+        },
+        "frame_number": 441,
+        "timestamp_seconds": 17.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7409,
+        "bounding_box": {
+            "x1": 356.79,
+            "y1": 237.15,
+            "x2": 490.4,
+            "y2": 273.68
+        },
+        "frame_number": 442,
+        "timestamp_seconds": 17.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6092,
+        "bounding_box": {
+            "x1": 11.62,
+            "y1": 282.07,
+            "x2": 311.74,
+            "y2": 421.32
+        },
+        "frame_number": 442,
+        "timestamp_seconds": 17.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6822,
+        "bounding_box": {
+            "x1": 349.55,
+            "y1": 233.36,
+            "x2": 490.63,
+            "y2": 277.79
+        },
+        "frame_number": 443,
+        "timestamp_seconds": 17.72
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6401,
+        "bounding_box": {
+            "x1": 26.65,
+            "y1": 283.02,
+            "x2": 303.78,
+            "y2": 400.03
+        },
+        "frame_number": 443,
+        "timestamp_seconds": 17.72
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7261,
+        "bounding_box": {
+            "x1": 351.36,
+            "y1": 235.9,
+            "x2": 494.44,
+            "y2": 279.12
+        },
+        "frame_number": 444,
+        "timestamp_seconds": 17.76
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5596,
+        "bounding_box": {
+            "x1": 8.09,
+            "y1": 288.19,
+            "x2": 290.04,
+            "y2": 402.82
+        },
+        "frame_number": 444,
+        "timestamp_seconds": 17.76
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7241,
+        "bounding_box": {
+            "x1": 344.45,
+            "y1": 243.31,
+            "x2": 489.94,
+            "y2": 286.55
+        },
+        "frame_number": 445,
+        "timestamp_seconds": 17.8
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.685,
+        "bounding_box": {
+            "x1": 3.57,
+            "y1": 295.04,
+            "x2": 274.56,
+            "y2": 468.01
+        },
+        "frame_number": 445,
+        "timestamp_seconds": 17.8
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7757,
+        "bounding_box": {
+            "x1": 6.19,
+            "y1": 296.35,
+            "x2": 283.46,
+            "y2": 472.9
+        },
+        "frame_number": 446,
+        "timestamp_seconds": 17.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.582,
+        "bounding_box": {
+            "x1": 338.8,
+            "y1": 249.16,
+            "x2": 488.84,
+            "y2": 287.77
+        },
+        "frame_number": 446,
+        "timestamp_seconds": 17.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6856,
+        "bounding_box": {
+            "x1": 0.0,
+            "y1": 298.69,
+            "x2": 283.14,
+            "y2": 493.9
+        },
+        "frame_number": 447,
+        "timestamp_seconds": 17.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6708,
+        "bounding_box": {
+            "x1": 334.7,
+            "y1": 254.73,
+            "x2": 493.16,
+            "y2": 291.37
+        },
+        "frame_number": 447,
+        "timestamp_seconds": 17.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.615,
+        "bounding_box": {
+            "x1": 331.32,
+            "y1": 253.22,
+            "x2": 494.12,
+            "y2": 296.56
+        },
+        "frame_number": 448,
+        "timestamp_seconds": 17.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5415,
+        "bounding_box": {
+            "x1": 1.2,
+            "y1": 302.17,
+            "x2": 272.44,
+            "y2": 464.23
+        },
+        "frame_number": 448,
+        "timestamp_seconds": 17.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6907,
+        "bounding_box": {
+            "x1": 1.45,
+            "y1": 307.42,
+            "x2": 274.1,
+            "y2": 505.83
+        },
+        "frame_number": 449,
+        "timestamp_seconds": 17.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6687,
+        "bounding_box": {
+            "x1": 333.78,
+            "y1": 244.52,
+            "x2": 489.32,
+            "y2": 299.46
+        },
+        "frame_number": 449,
+        "timestamp_seconds": 17.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.72,
+        "bounding_box": {
+            "x1": 0.0,
+            "y1": 310.5,
+            "x2": 284.46,
+            "y2": 541.56
+        },
+        "frame_number": 450,
+        "timestamp_seconds": 18.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5499,
+        "bounding_box": {
+            "x1": 328.27,
+            "y1": 250.58,
+            "x2": 485.4,
+            "y2": 301.6
+        },
+        "frame_number": 450,
+        "timestamp_seconds": 18.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4103,
+        "bounding_box": {
+            "x1": 0.14,
+            "y1": 320.23,
+            "x2": 269.22,
+            "y2": 494.19
+        },
+        "frame_number": 451,
+        "timestamp_seconds": 18.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6422,
+        "bounding_box": {
+            "x1": 331.69,
+            "y1": 273.97,
+            "x2": 488.84,
+            "y2": 315.31
+        },
+        "frame_number": 452,
+        "timestamp_seconds": 18.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6223,
+        "bounding_box": {
+            "x1": 322.3,
+            "y1": 279.94,
+            "x2": 485.29,
+            "y2": 320.09
+        },
+        "frame_number": 453,
+        "timestamp_seconds": 18.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5509,
+        "bounding_box": {
+            "x1": 318.21,
+            "y1": 285.55,
+            "x2": 487.08,
+            "y2": 324.72
+        },
+        "frame_number": 454,
+        "timestamp_seconds": 18.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6717,
+        "bounding_box": {
+            "x1": 315.24,
+            "y1": 290.75,
+            "x2": 481.54,
+            "y2": 332.22
+        },
+        "frame_number": 455,
+        "timestamp_seconds": 18.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6955,
+        "bounding_box": {
+            "x1": 308.19,
+            "y1": 289.04,
+            "x2": 491.45,
+            "y2": 336.5
+        },
+        "frame_number": 456,
+        "timestamp_seconds": 18.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7334,
+        "bounding_box": {
+            "x1": 307.76,
+            "y1": 300.8,
+            "x2": 483.88,
+            "y2": 340.31
+        },
+        "frame_number": 457,
+        "timestamp_seconds": 18.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.732,
+        "bounding_box": {
+            "x1": 0.0,
+            "y1": 364.89,
+            "x2": 236.76,
+            "y2": 516.0
+        },
+        "frame_number": 457,
+        "timestamp_seconds": 18.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7406,
+        "bounding_box": {
+            "x1": 293.33,
+            "y1": 304.26,
+            "x2": 478.66,
+            "y2": 348.54
+        },
+        "frame_number": 458,
+        "timestamp_seconds": 18.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7,
+        "bounding_box": {
+            "x1": 288.85,
+            "y1": 304.85,
+            "x2": 486.47,
+            "y2": 353.25
+        },
+        "frame_number": 459,
+        "timestamp_seconds": 18.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7144,
+        "bounding_box": {
+            "x1": 284.51,
+            "y1": 306.45,
+            "x2": 486.41,
+            "y2": 358.29
+        },
+        "frame_number": 460,
+        "timestamp_seconds": 18.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6943,
+        "bounding_box": {
+            "x1": 267.39,
+            "y1": 302.29,
+            "x2": 481.15,
+            "y2": 363.24
+        },
+        "frame_number": 461,
+        "timestamp_seconds": 18.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7186,
+        "bounding_box": {
+            "x1": 258.18,
+            "y1": 301.11,
+            "x2": 484.92,
+            "y2": 374.49
+        },
+        "frame_number": 462,
+        "timestamp_seconds": 18.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4172,
+        "bounding_box": {
+            "x1": 267.72,
+            "y1": 320.59,
+            "x2": 482.72,
+            "y2": 374.63
+        },
+        "frame_number": 462,
+        "timestamp_seconds": 18.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7049,
+        "bounding_box": {
+            "x1": 254.37,
+            "y1": 323.54,
+            "x2": 481.83,
+            "y2": 381.67
+        },
+        "frame_number": 463,
+        "timestamp_seconds": 18.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6449,
+        "bounding_box": {
+            "x1": 249.84,
+            "y1": 313.5,
+            "x2": 482.84,
+            "y2": 385.7
+        },
+        "frame_number": 464,
+        "timestamp_seconds": 18.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5888,
+        "bounding_box": {
+            "x1": 271.38,
+            "y1": 332.69,
+            "x2": 479.32,
+            "y2": 383.86
+        },
+        "frame_number": 464,
+        "timestamp_seconds": 18.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7615,
+        "bounding_box": {
+            "x1": 246.8,
+            "y1": 333.27,
+            "x2": 477.01,
+            "y2": 398.07
+        },
+        "frame_number": 465,
+        "timestamp_seconds": 18.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7404,
+        "bounding_box": {
+            "x1": 244.01,
+            "y1": 344.79,
+            "x2": 470.17,
+            "y2": 402.0
+        },
+        "frame_number": 466,
+        "timestamp_seconds": 18.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7412,
+        "bounding_box": {
+            "x1": 231.39,
+            "y1": 342.97,
+            "x2": 471.32,
+            "y2": 409.94
+        },
+        "frame_number": 467,
+        "timestamp_seconds": 18.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7275,
+        "bounding_box": {
+            "x1": 231.47,
+            "y1": 352.83,
+            "x2": 455.83,
+            "y2": 416.84
+        },
+        "frame_number": 468,
+        "timestamp_seconds": 18.72
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7277,
+        "bounding_box": {
+            "x1": 212.94,
+            "y1": 353.29,
+            "x2": 460.02,
+            "y2": 425.21
+        },
+        "frame_number": 469,
+        "timestamp_seconds": 18.76
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7074,
+        "bounding_box": {
+            "x1": 204.43,
+            "y1": 356.6,
+            "x2": 460.58,
+            "y2": 431.65
+        },
+        "frame_number": 470,
+        "timestamp_seconds": 18.8
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7271,
+        "bounding_box": {
+            "x1": 196.7,
+            "y1": 362.0,
+            "x2": 465.72,
+            "y2": 437.22
+        },
+        "frame_number": 471,
+        "timestamp_seconds": 18.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7264,
+        "bounding_box": {
+            "x1": 187.37,
+            "y1": 371.59,
+            "x2": 454.99,
+            "y2": 449.85
+        },
+        "frame_number": 472,
+        "timestamp_seconds": 18.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7181,
+        "bounding_box": {
+            "x1": 180.52,
+            "y1": 372.79,
+            "x2": 460.03,
+            "y2": 453.76
+        },
+        "frame_number": 473,
+        "timestamp_seconds": 18.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7289,
+        "bounding_box": {
+            "x1": 179.14,
+            "y1": 380.05,
+            "x2": 451.14,
+            "y2": 463.99
+        },
+        "frame_number": 474,
+        "timestamp_seconds": 18.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6679,
+        "bounding_box": {
+            "x1": 159.37,
+            "y1": 388.85,
+            "x2": 438.47,
+            "y2": 480.56
+        },
+        "frame_number": 475,
+        "timestamp_seconds": 19.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7297,
+        "bounding_box": {
+            "x1": 152.47,
+            "y1": 394.03,
+            "x2": 431.71,
+            "y2": 489.32
+        },
+        "frame_number": 476,
+        "timestamp_seconds": 19.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7704,
+        "bounding_box": {
+            "x1": 150.59,
+            "y1": 401.0,
+            "x2": 436.19,
+            "y2": 498.53
+        },
+        "frame_number": 477,
+        "timestamp_seconds": 19.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7284,
+        "bounding_box": {
+            "x1": 122.6,
+            "y1": 413.33,
+            "x2": 431.52,
+            "y2": 513.78
+        },
+        "frame_number": 478,
+        "timestamp_seconds": 19.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7265,
+        "bounding_box": {
+            "x1": 104.93,
+            "y1": 424.7,
+            "x2": 429.59,
+            "y2": 526.74
+        },
+        "frame_number": 479,
+        "timestamp_seconds": 19.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8084,
+        "bounding_box": {
+            "x1": 99.99,
+            "y1": 430.73,
+            "x2": 423.27,
+            "y2": 536.93
+        },
+        "frame_number": 480,
+        "timestamp_seconds": 19.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7795,
+        "bounding_box": {
+            "x1": 92.05,
+            "y1": 436.0,
+            "x2": 417.98,
+            "y2": 545.29
+        },
+        "frame_number": 481,
+        "timestamp_seconds": 19.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7973,
+        "bounding_box": {
+            "x1": 78.43,
+            "y1": 451.83,
+            "x2": 420.27,
+            "y2": 573.29
+        },
+        "frame_number": 482,
+        "timestamp_seconds": 19.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7907,
+        "bounding_box": {
+            "x1": 69.05,
+            "y1": 463.52,
+            "x2": 415.76,
+            "y2": 581.65
+        },
+        "frame_number": 483,
+        "timestamp_seconds": 19.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7289,
+        "bounding_box": {
+            "x1": 21.73,
+            "y1": 475.32,
+            "x2": 422.68,
+            "y2": 600.37
+        },
+        "frame_number": 484,
+        "timestamp_seconds": 19.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8132,
+        "bounding_box": {
+            "x1": 63.94,
+            "y1": 498.73,
+            "x2": 411.54,
+            "y2": 624.06
+        },
+        "frame_number": 485,
+        "timestamp_seconds": 19.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8031,
+        "bounding_box": {
+            "x1": 23.71,
+            "y1": 513.12,
+            "x2": 407.91,
+            "y2": 639.17
+        },
+        "frame_number": 486,
+        "timestamp_seconds": 19.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.824,
+        "bounding_box": {
+            "x1": 10.99,
+            "y1": 529.93,
+            "x2": 405.83,
+            "y2": 662.81
+        },
+        "frame_number": 487,
+        "timestamp_seconds": 19.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8662,
+        "bounding_box": {
+            "x1": 0.52,
+            "y1": 554.01,
+            "x2": 395.27,
+            "y2": 702.55
+        },
+        "frame_number": 488,
+        "timestamp_seconds": 19.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8472,
+        "bounding_box": {
+            "x1": 2.02,
+            "y1": 569.21,
+            "x2": 390.06,
+            "y2": 715.21
+        },
+        "frame_number": 489,
+        "timestamp_seconds": 19.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4972,
+        "bounding_box": {
+            "x1": 594.1,
+            "y1": 300.96,
+            "x2": 804.25,
+            "y2": 350.65
+        },
+        "frame_number": 530,
+        "timestamp_seconds": 21.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5019,
+        "bounding_box": {
+            "x1": 580.93,
+            "y1": 311.09,
+            "x2": 815.05,
+            "y2": 370.91
+        },
+        "frame_number": 532,
+        "timestamp_seconds": 21.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4442,
+        "bounding_box": {
+            "x1": 584.74,
+            "y1": 315.76,
+            "x2": 814.17,
+            "y2": 378.34
+        },
+        "frame_number": 533,
+        "timestamp_seconds": 21.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4195,
+        "bounding_box": {
+            "x1": 571.33,
+            "y1": 340.44,
+            "x2": 847.1,
+            "y2": 421.04
+        },
+        "frame_number": 538,
+        "timestamp_seconds": 21.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4322,
+        "bounding_box": {
+            "x1": 630.41,
+            "y1": 502.63,
+            "x2": 1066.15,
+            "y2": 665.44
+        },
+        "frame_number": 555,
+        "timestamp_seconds": 22.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6608,
+        "bounding_box": {
+            "x1": 651.64,
+            "y1": 520.7,
+            "x2": 1077.88,
+            "y2": 685.31
+        },
+        "frame_number": 556,
+        "timestamp_seconds": 22.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4195,
+        "bounding_box": {
+            "x1": 584.41,
+            "y1": 420.61,
+            "x2": 1108.66,
+            "y2": 710.39
+        },
+        "frame_number": 604,
+        "timestamp_seconds": 24.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6146,
+        "bounding_box": {
+            "x1": 1.0,
+            "y1": 332.3,
+            "x2": 414.52,
+            "y2": 699.98
+        },
+        "frame_number": 613,
+        "timestamp_seconds": 24.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4735,
+        "bounding_box": {
+            "x1": 844.97,
+            "y1": 367.0,
+            "x2": 960.62,
+            "y2": 426.68
+        },
+        "frame_number": 613,
+        "timestamp_seconds": 24.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.684,
+        "bounding_box": {
+            "x1": 0.67,
+            "y1": 343.95,
+            "x2": 404.67,
+            "y2": 703.02
+        },
+        "frame_number": 614,
+        "timestamp_seconds": 24.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8177,
+        "bounding_box": {
+            "x1": 0.53,
+            "y1": 359.54,
+            "x2": 399.11,
+            "y2": 712.56
+        },
+        "frame_number": 615,
+        "timestamp_seconds": 24.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5609,
+        "bounding_box": {
+            "x1": 859.4,
+            "y1": 383.61,
+            "x2": 991.98,
+            "y2": 455.12
+        },
+        "frame_number": 615,
+        "timestamp_seconds": 24.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4224,
+        "bounding_box": {
+            "x1": 780.32,
+            "y1": 380.9,
+            "x2": 994.8,
+            "y2": 459.51
+        },
+        "frame_number": 615,
+        "timestamp_seconds": 24.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6829,
+        "bounding_box": {
+            "x1": 866.46,
+            "y1": 386.31,
+            "x2": 1003.66,
+            "y2": 461.48
+        },
+        "frame_number": 616,
+        "timestamp_seconds": 24.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6763,
+        "bounding_box": {
+            "x1": 0.7,
+            "y1": 365.05,
+            "x2": 411.46,
+            "y2": 714.42
+        },
+        "frame_number": 616,
+        "timestamp_seconds": 24.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5684,
+        "bounding_box": {
+            "x1": 5.47,
+            "y1": 373.31,
+            "x2": 421.53,
+            "y2": 583.72
+        },
+        "frame_number": 617,
+        "timestamp_seconds": 24.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5617,
+        "bounding_box": {
+            "x1": 0.31,
+            "y1": 368.8,
+            "x2": 414.76,
+            "y2": 717.86
+        },
+        "frame_number": 617,
+        "timestamp_seconds": 24.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5381,
+        "bounding_box": {
+            "x1": 875.51,
+            "y1": 395.1,
+            "x2": 1013.02,
+            "y2": 469.37
+        },
+        "frame_number": 617,
+        "timestamp_seconds": 24.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7559,
+        "bounding_box": {
+            "x1": 899.54,
+            "y1": 410.97,
+            "x2": 1036.84,
+            "y2": 496.81
+        },
+        "frame_number": 618,
+        "timestamp_seconds": 24.72
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7229,
+        "bounding_box": {
+            "x1": 909.16,
+            "y1": 419.91,
+            "x2": 1045.51,
+            "y2": 503.84
+        },
+        "frame_number": 619,
+        "timestamp_seconds": 24.76
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7195,
+        "bounding_box": {
+            "x1": 920.29,
+            "y1": 427.91,
+            "x2": 1061.15,
+            "y2": 514.19
+        },
+        "frame_number": 620,
+        "timestamp_seconds": 24.8
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5699,
+        "bounding_box": {
+            "x1": 0.0,
+            "y1": 388.18,
+            "x2": 416.91,
+            "y2": 653.28
+        },
+        "frame_number": 620,
+        "timestamp_seconds": 24.8
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7603,
+        "bounding_box": {
+            "x1": 933.95,
+            "y1": 432.68,
+            "x2": 1078.88,
+            "y2": 538.58
+        },
+        "frame_number": 621,
+        "timestamp_seconds": 24.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6222,
+        "bounding_box": {
+            "x1": 0.0,
+            "y1": 397.97,
+            "x2": 405.23,
+            "y2": 700.86
+        },
+        "frame_number": 621,
+        "timestamp_seconds": 24.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7606,
+        "bounding_box": {
+            "x1": 951.73,
+            "y1": 449.63,
+            "x2": 1104.73,
+            "y2": 552.56
+        },
+        "frame_number": 622,
+        "timestamp_seconds": 24.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.76,
+        "bounding_box": {
+            "x1": 964.53,
+            "y1": 460.31,
+            "x2": 1125.8,
+            "y2": 565.01
+        },
+        "frame_number": 623,
+        "timestamp_seconds": 24.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4433,
+        "bounding_box": {
+            "x1": 0.19,
+            "y1": 418.84,
+            "x2": 396.45,
+            "y2": 697.48
+        },
+        "frame_number": 623,
+        "timestamp_seconds": 24.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6668,
+        "bounding_box": {
+            "x1": 982.01,
+            "y1": 469.11,
+            "x2": 1145.54,
+            "y2": 595.45
+        },
+        "frame_number": 624,
+        "timestamp_seconds": 24.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8011,
+        "bounding_box": {
+            "x1": 1009.43,
+            "y1": 492.09,
+            "x2": 1182.11,
+            "y2": 616.75
+        },
+        "frame_number": 625,
+        "timestamp_seconds": 25.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7427,
+        "bounding_box": {
+            "x1": 1029.4,
+            "y1": 505.91,
+            "x2": 1209.18,
+            "y2": 636.27
+        },
+        "frame_number": 626,
+        "timestamp_seconds": 25.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8172,
+        "bounding_box": {
+            "x1": 1041.31,
+            "y1": 514.46,
+            "x2": 1232.26,
+            "y2": 655.21
+        },
+        "frame_number": 627,
+        "timestamp_seconds": 25.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8362,
+        "bounding_box": {
+            "x1": 1072.61,
+            "y1": 541.1,
+            "x2": 1279.78,
+            "y2": 700.92
+        },
+        "frame_number": 628,
+        "timestamp_seconds": 25.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6747,
+        "bounding_box": {
+            "x1": 778.05,
+            "y1": 424.32,
+            "x2": 1107.98,
+            "y2": 692.0
+        },
+        "frame_number": 639,
+        "timestamp_seconds": 25.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5056,
+        "bounding_box": {
+            "x1": 652.59,
+            "y1": 318.44,
+            "x2": 883.81,
+            "y2": 382.38
+        },
+        "frame_number": 639,
+        "timestamp_seconds": 25.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5275,
+        "bounding_box": {
+            "x1": 652.63,
+            "y1": 323.91,
+            "x2": 891.86,
+            "y2": 392.9
+        },
+        "frame_number": 640,
+        "timestamp_seconds": 25.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.496,
+        "bounding_box": {
+            "x1": 588.22,
+            "y1": 255.73,
+            "x2": 780.22,
+            "y2": 316.3
+        },
+        "frame_number": 648,
+        "timestamp_seconds": 25.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.5663,
+        "bounding_box": {
+            "x1": 587.81,
+            "y1": 257.54,
+            "x2": 779.48,
+            "y2": 321.48
+        },
+        "frame_number": 649,
+        "timestamp_seconds": 25.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.408,
+        "bounding_box": {
+            "x1": 590.69,
+            "y1": 259.49,
+            "x2": 784.72,
+            "y2": 327.53
+        },
+        "frame_number": 650,
+        "timestamp_seconds": 26.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7058,
+        "bounding_box": {
+            "x1": 593.82,
+            "y1": 260.59,
+            "x2": 792.32,
+            "y2": 329.23
+        },
+        "frame_number": 651,
+        "timestamp_seconds": 26.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7715,
+        "bounding_box": {
+            "x1": 591.04,
+            "y1": 266.02,
+            "x2": 799.48,
+            "y2": 341.21
+        },
+        "frame_number": 652,
+        "timestamp_seconds": 26.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7802,
+        "bounding_box": {
+            "x1": 590.31,
+            "y1": 267.07,
+            "x2": 812.92,
+            "y2": 346.77
+        },
+        "frame_number": 653,
+        "timestamp_seconds": 26.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7768,
+        "bounding_box": {
+            "x1": 595.52,
+            "y1": 270.24,
+            "x2": 806.57,
+            "y2": 351.05
+        },
+        "frame_number": 654,
+        "timestamp_seconds": 26.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7889,
+        "bounding_box": {
+            "x1": 593.45,
+            "y1": 278.68,
+            "x2": 815.8,
+            "y2": 363.43
+        },
+        "frame_number": 655,
+        "timestamp_seconds": 26.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8103,
+        "bounding_box": {
+            "x1": 597.65,
+            "y1": 284.14,
+            "x2": 818.39,
+            "y2": 368.48
+        },
+        "frame_number": 656,
+        "timestamp_seconds": 26.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7896,
+        "bounding_box": {
+            "x1": 594.89,
+            "y1": 287.21,
+            "x2": 822.95,
+            "y2": 374.68
+        },
+        "frame_number": 657,
+        "timestamp_seconds": 26.28
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7995,
+        "bounding_box": {
+            "x1": 595.6,
+            "y1": 290.8,
+            "x2": 829.71,
+            "y2": 386.7
+        },
+        "frame_number": 658,
+        "timestamp_seconds": 26.32
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.775,
+        "bounding_box": {
+            "x1": 597.81,
+            "y1": 295.83,
+            "x2": 837.25,
+            "y2": 396.72
+        },
+        "frame_number": 659,
+        "timestamp_seconds": 26.36
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7738,
+        "bounding_box": {
+            "x1": 596.86,
+            "y1": 299.96,
+            "x2": 840.13,
+            "y2": 402.03
+        },
+        "frame_number": 660,
+        "timestamp_seconds": 26.4
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.788,
+        "bounding_box": {
+            "x1": 602.8,
+            "y1": 301.65,
+            "x2": 848.3,
+            "y2": 407.42
+        },
+        "frame_number": 661,
+        "timestamp_seconds": 26.44
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8092,
+        "bounding_box": {
+            "x1": 606.55,
+            "y1": 313.69,
+            "x2": 857.67,
+            "y2": 426.61
+        },
+        "frame_number": 662,
+        "timestamp_seconds": 26.48
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8318,
+        "bounding_box": {
+            "x1": 604.58,
+            "y1": 317.24,
+            "x2": 866.93,
+            "y2": 434.74
+        },
+        "frame_number": 663,
+        "timestamp_seconds": 26.52
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7999,
+        "bounding_box": {
+            "x1": 604.67,
+            "y1": 321.32,
+            "x2": 873.39,
+            "y2": 443.15
+        },
+        "frame_number": 664,
+        "timestamp_seconds": 26.56
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7849,
+        "bounding_box": {
+            "x1": 610.0,
+            "y1": 327.91,
+            "x2": 885.99,
+            "y2": 464.33
+        },
+        "frame_number": 665,
+        "timestamp_seconds": 26.6
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7612,
+        "bounding_box": {
+            "x1": 608.72,
+            "y1": 331.17,
+            "x2": 920.19,
+            "y2": 479.74
+        },
+        "frame_number": 666,
+        "timestamp_seconds": 26.64
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7446,
+        "bounding_box": {
+            "x1": 610.33,
+            "y1": 337.23,
+            "x2": 921.92,
+            "y2": 488.86
+        },
+        "frame_number": 667,
+        "timestamp_seconds": 26.68
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7214,
+        "bounding_box": {
+            "x1": 615.14,
+            "y1": 342.93,
+            "x2": 983.48,
+            "y2": 530.64
+        },
+        "frame_number": 668,
+        "timestamp_seconds": 26.72
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7762,
+        "bounding_box": {
+            "x1": 615.8,
+            "y1": 351.3,
+            "x2": 936.55,
+            "y2": 537.73
+        },
+        "frame_number": 669,
+        "timestamp_seconds": 26.76
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8318,
+        "bounding_box": {
+            "x1": 623.02,
+            "y1": 355.75,
+            "x2": 1012.3,
+            "y2": 564.51
+        },
+        "frame_number": 670,
+        "timestamp_seconds": 26.8
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7344,
+        "bounding_box": {
+            "x1": 618.2,
+            "y1": 364.71,
+            "x2": 952.07,
+            "y2": 561.29
+        },
+        "frame_number": 671,
+        "timestamp_seconds": 26.84
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7206,
+        "bounding_box": {
+            "x1": 628.99,
+            "y1": 373.95,
+            "x2": 1000.13,
+            "y2": 594.92
+        },
+        "frame_number": 672,
+        "timestamp_seconds": 26.88
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6548,
+        "bounding_box": {
+            "x1": 626.17,
+            "y1": 379.11,
+            "x2": 906.02,
+            "y2": 607.13
+        },
+        "frame_number": 673,
+        "timestamp_seconds": 26.92
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7251,
+        "bounding_box": {
+            "x1": 633.67,
+            "y1": 381.98,
+            "x2": 1015.17,
+            "y2": 625.93
+        },
+        "frame_number": 674,
+        "timestamp_seconds": 26.96
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7895,
+        "bounding_box": {
+            "x1": 638.53,
+            "y1": 400.23,
+            "x2": 969.94,
+            "y2": 665.28
+        },
+        "frame_number": 675,
+        "timestamp_seconds": 27.0
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8503,
+        "bounding_box": {
+            "x1": 643.0,
+            "y1": 412.84,
+            "x2": 994.14,
+            "y2": 682.82
+        },
+        "frame_number": 676,
+        "timestamp_seconds": 27.04
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8847,
+        "bounding_box": {
+            "x1": 645.86,
+            "y1": 417.44,
+            "x2": 1009.43,
+            "y2": 712.35
+        },
+        "frame_number": 677,
+        "timestamp_seconds": 27.08
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.8108,
+        "bounding_box": {
+            "x1": 651.55,
+            "y1": 432.19,
+            "x2": 1079.72,
+            "y2": 719.08
+        },
+        "frame_number": 678,
+        "timestamp_seconds": 27.12
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.7319,
+        "bounding_box": {
+            "x1": 659.3,
+            "y1": 444.55,
+            "x2": 1082.35,
+            "y2": 719.92
+        },
+        "frame_number": 679,
+        "timestamp_seconds": 27.16
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.402,
+        "bounding_box": {
+            "x1": 666.44,
+            "y1": 459.09,
+            "x2": 1115.87,
+            "y2": 716.52
+        },
+        "frame_number": 680,
+        "timestamp_seconds": 27.2
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.6494,
+        "bounding_box": {
+            "x1": 672.4,
+            "y1": 466.92,
+            "x2": 1119.49,
+            "y2": 715.83
+        },
+        "frame_number": 681,
+        "timestamp_seconds": 27.24
+    },
+    {
+        "event_type": "ROAD_DAMAGE",
+        "damage_type": "D40",
+        "confidence": 0.4586,
+        "bounding_box": {
+            "x1": 682.22,
+            "y1": 532.23,
+            "x2": 924.64,
+            "y2": 692.46
+        },
+        "frame_number": 684,
+        "timestamp_seconds": 27.36
+    }
+]

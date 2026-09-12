@@ -1,0 +1,60 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pdm-build/
+
+# Packaging / build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Generated media / outputs
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.gif
+*.webm
+videos/
+out/
+output/
+results/
+
+# Large model and checkpoint files
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+*.onnx
+*.gguf
+*.ggml
+*.h5
+*.hdf5
+*.pb
+
+# Local environment / secrets
+.env
+.env.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
