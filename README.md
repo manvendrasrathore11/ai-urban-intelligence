@@ -32,7 +32,7 @@ This repository currently contains only the initial project skeleton:
 - No YOLO implementation is included yet.
 - This is intended as a clean starting structure for future development.
 
-rrd  pipline 
+<!-- rrd  pipline  -->
 
                     YOUR STAGE 1
                          │
@@ -76,7 +76,7 @@ rrd  pipline
       └──────────────┘      └──────────────┘
 
 
-      detect file pipline
+      <!-- detect file pipline -->
 
 Input Video
     ↓
@@ -94,4 +94,37 @@ Draw bounding boxes + labels
     ↓
 Save annotated video
     ↓
-Save events as JSON      
+Save events as JSON    
+
+
+
+
+
+
+<!-- config.py    -->
+
+
+config.py
+   │
+   ├── MODEL_REPO
+   └── MODEL_FILENAME
+          │
+          ▼
+Hugging Face Hub
+          │
+          ▼
+Download .pt checkpoint
+          │
+          ▼
+YOLOv12 model
+          │
+          ▼
+Compatibility fix
+          │
+          ▼
+Loaded model
+          │
+          ▼
+detect_road_damage()
+
+

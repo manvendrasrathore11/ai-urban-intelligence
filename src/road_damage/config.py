@@ -42,6 +42,17 @@ WINDOW_NAME = "AI Urban Intelligence - Road Damage Detection"
 EXIT_KEYS = [ord("q"), 27]
 
 
+
+
+# 
+
+BUS_ID = "BUS_001"
+
+GPS_START_LATITUDE = 26.9124
+GPS_START_LONGITUDE = 75.7873
+
+
+
 # ============================================================
 # CREATE OUTPUT DIRECTORIES
 # ============================================================
