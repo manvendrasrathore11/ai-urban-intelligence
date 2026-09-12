@@ -31,3 +31,67 @@ This repository currently contains only the initial project skeleton:
 - No model download is performed here.
 - No YOLO implementation is included yet.
 - This is intended as a clean starting structure for future development.
+
+rrd  pipline 
+
+                    YOUR STAGE 1
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │   Road Video  │
+                 │ road_test.mp4 │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │ OpenCV        │
+                 │ VideoCapture  │
+                 └───────┬───────┘
+                         │
+                    frame 1
+                    frame 2
+                    frame 3
+                       ...
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │ YOLOv12s      │
+                 │ RDD2022 Model │
+                 └───────┬───────┘
+                         │
+                         ▼
+             ┌────────────────────────┐
+             │ Detection              │
+             │                        │
+             │ class                  │
+             │ confidence             │
+             │ bounding box           │
+             └──────────┬─────────────┘
+                        │
+             ┌──────────┴──────────┐
+             ▼                     ▼
+      ┌──────────────┐      ┌──────────────┐
+      │ Annotated    │      │ JSON Events  │
+      │ Video        │      │              │
+      └──────────────┘      └──────────────┘
+
+
+      detect file pipline
+
+Input Video
+    ↓
+Read frame
+    ↓
+YOLO model
+    ↓
+Find road damage
+    ↓
+Filter low-confidence detections
+    ↓
+Create event data
+    ↓
+Draw bounding boxes + labels
+    ↓
+Save annotated video
+    ↓
+Save events as JSON      
