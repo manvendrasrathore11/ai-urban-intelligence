@@ -1,0 +1,20 @@
+[
+    {
+        "damage_id": "ROAD_DAMAGE_001",
+        "damage_type": "D40",
+        "damage_name": "POTHOLE",
+        "location": {
+            "latitude": 26.912402,
+            "longitude": 75.787302
+        },
+        "bus_ids": [
+            "BUS_001"
+        ],
+        "detection_dates": [
+            "2026-09-14"
+        ],
+        "first_detected_date": "2026-09-14",
+        "last_detected_date": "2026-09-14",
+        "total_confirmations": 6
+    }
+]
