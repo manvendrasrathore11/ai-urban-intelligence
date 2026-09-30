@@ -855,4 +855,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-Explain me how to create video in the laptop by covering the front end back end. What are the platform by to record the screen? How to do screen recording in the laptop windows? Is there any inbuilt screen recording features? Can we record them or yeah, suggest that that how to do that and yep. And also structured how to show the all project to the SIH by doing this. How to do these things. Like how able to do this.

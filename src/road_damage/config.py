@@ -12,10 +12,13 @@ VIDEO_OUTPUT_DIR = PROJECT_ROOT / "outputs" / "videos"
 EVENT_OUTPUT_DIR = PROJECT_ROOT / "outputs" / "events"
 
 
+<<<<<<< HEAD
 # Evidence photographs
 EVIDENCE_OUTPUT_DIR = PROJECT_ROOT / "outputs" / "evidence"
 ROAD_DAMAGE_EVIDENCE_DIR = EVIDENCE_OUTPUT_DIR / "road_damage"
 
+=======
+>>>>>>> 6e1c54d4c6a35f7b69d5b9cc1a36de6fbef33b31
 # ============================================================
 # MODEL
 # ============================================================
@@ -32,10 +35,13 @@ MODEL_FILENAME = "yolo12s_RDD2022_best.pt"
 CONFIDENCE_THRESHOLD = 0.40
 
 
+<<<<<<< HEAD
 # EVIDENCE SETTINGS
 EVIDENCE_WINDOW_SECONDS = 5
 MIN_DISTINCT_DAMAGE_OBJECTS = 3
 
+=======
+>>>>>>> 6e1c54d4c6a35f7b69d5b9cc1a36de6fbef33b31
 # ============================================================
 # DISPLAY SETTINGS
 # ============================================================
@@ -73,9 +79,12 @@ VIDEO_OUTPUT_DIR.mkdir(
 EVENT_OUTPUT_DIR.mkdir(
     parents=True,
     exist_ok=True
+<<<<<<< HEAD
 )
 
 ROAD_DAMAGE_EVIDENCE_DIR.mkdir(
     parents=True,
     exist_ok=True
+=======
+>>>>>>> 6e1c54d4c6a35f7b69d5b9cc1a36de6fbef33b31
 )
