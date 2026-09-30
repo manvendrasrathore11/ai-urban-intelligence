@@ -1,0 +1,500 @@
+{
+    "analysis_type": "ROAD_DAMAGE_EVIDENCE",
+    "pipeline_stage": "STAGE_4_COMPLETE",
+    "analysis_timestamp": "2026-09-30T17:42:21.453274",
+    "bus_id": "BUS_001",
+    "video_summary": {
+        "total_damage_candidates": 2,
+        "total_physical_damage_entities": 1,
+        "damage_by_type": {
+            "POTHOLE": 2
+        }
+    },
+    "damage_candidates": [
+        {
+            "candidate_id": "DAMAGE_CANDIDATE_1",
+            "track_id": 1,
+            "damage_type": "D40",
+            "damage_name": "POTHOLE",
+            "first_seen_frame": 1,
+            "last_seen_frame": 28,
+            "first_seen_timestamp": 0.0,
+            "last_seen_timestamp": 0.9,
+            "max_confidence": 0.7829,
+            "observation_count": 21,
+            "bus_id": "BUS_001",
+            "gps_observations": [
+                {
+                    "frame_number": 1,
+                    "timestamp_seconds": 0.0,
+                    "latitude": 26.912401,
+                    "longitude": 75.787301
+                },
+                {
+                    "frame_number": 5,
+                    "timestamp_seconds": 0.13,
+                    "latitude": 26.912405,
+                    "longitude": 75.787305
+                },
+                {
+                    "frame_number": 6,
+                    "timestamp_seconds": 0.17,
+                    "latitude": 26.912406,
+                    "longitude": 75.787306
+                },
+                {
+                    "frame_number": 7,
+                    "timestamp_seconds": 0.2,
+                    "latitude": 26.912407,
+                    "longitude": 75.787307
+                },
+                {
+                    "frame_number": 8,
+                    "timestamp_seconds": 0.23,
+                    "latitude": 26.912408,
+                    "longitude": 75.787308
+                },
+                {
+                    "frame_number": 9,
+                    "timestamp_seconds": 0.27,
+                    "latitude": 26.912409,
+                    "longitude": 75.787309
+                },
+                {
+                    "frame_number": 10,
+                    "timestamp_seconds": 0.3,
+                    "latitude": 26.91241,
+                    "longitude": 75.78731
+                },
+                {
+                    "frame_number": 11,
+                    "timestamp_seconds": 0.33,
+                    "latitude": 26.912411,
+                    "longitude": 75.787311
+                },
+                {
+                    "frame_number": 12,
+                    "timestamp_seconds": 0.37,
+                    "latitude": 26.912412,
+                    "longitude": 75.787312
+                },
+                {
+                    "frame_number": 13,
+                    "timestamp_seconds": 0.4,
+                    "latitude": 26.912413,
+                    "longitude": 75.787313
+                },
+                {
+                    "frame_number": 14,
+                    "timestamp_seconds": 0.43,
+                    "latitude": 26.912414,
+                    "longitude": 75.787314
+                },
+                {
+                    "frame_number": 15,
+                    "timestamp_seconds": 0.47,
+                    "latitude": 26.912415,
+                    "longitude": 75.787315
+                },
+                {
+                    "frame_number": 20,
+                    "timestamp_seconds": 0.63,
+                    "latitude": 26.91242,
+                    "longitude": 75.78732
+                },
+                {
+                    "frame_number": 21,
+                    "timestamp_seconds": 0.67,
+                    "latitude": 26.912421,
+                    "longitude": 75.787321
+                },
+                {
+                    "frame_number": 22,
+                    "timestamp_seconds": 0.7,
+                    "latitude": 26.912422,
+                    "longitude": 75.787322
+                },
+                {
+                    "frame_number": 23,
+                    "timestamp_seconds": 0.73,
+                    "latitude": 26.912423,
+                    "longitude": 75.787323
+                },
+                {
+                    "frame_number": 24,
+                    "timestamp_seconds": 0.77,
+                    "latitude": 26.912424,
+                    "longitude": 75.787324
+                },
+                {
+                    "frame_number": 25,
+                    "timestamp_seconds": 0.8,
+                    "latitude": 26.912425,
+                    "longitude": 75.787325
+                },
+                {
+                    "frame_number": 26,
+                    "timestamp_seconds": 0.83,
+                    "latitude": 26.912426,
+                    "longitude": 75.787326
+                },
+                {
+                    "frame_number": 27,
+                    "timestamp_seconds": 0.87,
+                    "latitude": 26.912427,
+                    "longitude": 75.787327
+                },
+                {
+                    "frame_number": 28,
+                    "timestamp_seconds": 0.9,
+                    "latitude": 26.912428,
+                    "longitude": 75.787328
+                }
+            ],
+            "evidence": {
+                "start_frame": 1,
+                "end_frame": 28,
+                "start_timestamp": 0.0,
+                "end_timestamp": 0.9
+            },
+            "location": {
+                "latitude": 26.912416,
+                "longitude": 75.787316
+            }
+        },
+        {
+            "candidate_id": "DAMAGE_CANDIDATE_21",
+            "track_id": 21,
+            "damage_type": "D40",
+            "damage_name": "POTHOLE",
+            "first_seen_frame": 12,
+            "last_seen_frame": 21,
+            "first_seen_timestamp": 0.37,
+            "last_seen_timestamp": 0.67,
+            "max_confidence": 0.6689,
+            "observation_count": 9,
+            "bus_id": "BUS_001",
+            "gps_observations": [
+                {
+                    "frame_number": 12,
+                    "timestamp_seconds": 0.37,
+                    "latitude": 26.912412,
+                    "longitude": 75.787312
+                },
+                {
+                    "frame_number": 13,
+                    "timestamp_seconds": 0.4,
+                    "latitude": 26.912413,
+                    "longitude": 75.787313
+                },
+                {
+                    "frame_number": 14,
+                    "timestamp_seconds": 0.43,
+                    "latitude": 26.912414,
+                    "longitude": 75.787314
+                },
+                {
+                    "frame_number": 15,
+                    "timestamp_seconds": 0.47,
+                    "latitude": 26.912415,
+                    "longitude": 75.787315
+                },
+                {
+                    "frame_number": 16,
+                    "timestamp_seconds": 0.5,
+                    "latitude": 26.912416,
+                    "longitude": 75.787316
+                },
+                {
+                    "frame_number": 17,
+                    "timestamp_seconds": 0.53,
+                    "latitude": 26.912417,
+                    "longitude": 75.787317
+                },
+                {
+                    "frame_number": 18,
+                    "timestamp_seconds": 0.57,
+                    "latitude": 26.912418,
+                    "longitude": 75.787318
+                },
+                {
+                    "frame_number": 20,
+                    "timestamp_seconds": 0.63,
+                    "latitude": 26.91242,
+                    "longitude": 75.78732
+                },
+                {
+                    "frame_number": 21,
+                    "timestamp_seconds": 0.67,
+                    "latitude": 26.912421,
+                    "longitude": 75.787321
+                }
+            ],
+            "evidence": {
+                "start_frame": 12,
+                "end_frame": 21,
+                "start_timestamp": 0.37,
+                "end_timestamp": 0.67
+            },
+            "location": {
+                "latitude": 26.912416,
+                "longitude": 75.787316
+            }
+        }
+    ],
+    "physical_damage_entities": [
+        {
+            "damage_id": "ROAD_DAMAGE_001",
+            "damage_type": "D40",
+            "damage_name": "POTHOLE",
+            "location": {
+                "latitude": 26.912416,
+                "longitude": 75.787316
+            },
+            "candidate_count": 2,
+            "bus_ids": [
+                "BUS_001"
+            ],
+            "source_candidates": [
+                {
+                    "candidate_id": "DAMAGE_CANDIDATE_1",
+                    "track_id": 1,
+                    "damage_type": "D40",
+                    "damage_name": "POTHOLE",
+                    "first_seen_frame": 1,
+                    "last_seen_frame": 28,
+                    "first_seen_timestamp": 0.0,
+                    "last_seen_timestamp": 0.9,
+                    "max_confidence": 0.7829,
+                    "observation_count": 21,
+                    "bus_id": "BUS_001",
+                    "gps_observations": [
+                        {
+                            "frame_number": 1,
+                            "timestamp_seconds": 0.0,
+                            "latitude": 26.912401,
+                            "longitude": 75.787301
+                        },
+                        {
+                            "frame_number": 5,
+                            "timestamp_seconds": 0.13,
+                            "latitude": 26.912405,
+                            "longitude": 75.787305
+                        },
+                        {
+                            "frame_number": 6,
+                            "timestamp_seconds": 0.17,
+                            "latitude": 26.912406,
+                            "longitude": 75.787306
+                        },
+                        {
+                            "frame_number": 7,
+                            "timestamp_seconds": 0.2,
+                            "latitude": 26.912407,
+                            "longitude": 75.787307
+                        },
+                        {
+                            "frame_number": 8,
+                            "timestamp_seconds": 0.23,
+                            "latitude": 26.912408,
+                            "longitude": 75.787308
+                        },
+                        {
+                            "frame_number": 9,
+                            "timestamp_seconds": 0.27,
+                            "latitude": 26.912409,
+                            "longitude": 75.787309
+                        },
+                        {
+                            "frame_number": 10,
+                            "timestamp_seconds": 0.3,
+                            "latitude": 26.91241,
+                            "longitude": 75.78731
+                        },
+                        {
+                            "frame_number": 11,
+                            "timestamp_seconds": 0.33,
+                            "latitude": 26.912411,
+                            "longitude": 75.787311
+                        },
+                        {
+                            "frame_number": 12,
+                            "timestamp_seconds": 0.37,
+                            "latitude": 26.912412,
+                            "longitude": 75.787312
+                        },
+                        {
+                            "frame_number": 13,
+                            "timestamp_seconds": 0.4,
+                            "latitude": 26.912413,
+                            "longitude": 75.787313
+                        },
+                        {
+                            "frame_number": 14,
+                            "timestamp_seconds": 0.43,
+                            "latitude": 26.912414,
+                            "longitude": 75.787314
+                        },
+                        {
+                            "frame_number": 15,
+                            "timestamp_seconds": 0.47,
+                            "latitude": 26.912415,
+                            "longitude": 75.787315
+                        },
+                        {
+                            "frame_number": 20,
+                            "timestamp_seconds": 0.63,
+                            "latitude": 26.91242,
+                            "longitude": 75.78732
+                        },
+                        {
+                            "frame_number": 21,
+                            "timestamp_seconds": 0.67,
+                            "latitude": 26.912421,
+                            "longitude": 75.787321
+                        },
+                        {
+                            "frame_number": 22,
+                            "timestamp_seconds": 0.7,
+                            "latitude": 26.912422,
+                            "longitude": 75.787322
+                        },
+                        {
+                            "frame_number": 23,
+                            "timestamp_seconds": 0.73,
+                            "latitude": 26.912423,
+                            "longitude": 75.787323
+                        },
+                        {
+                            "frame_number": 24,
+                            "timestamp_seconds": 0.77,
+                            "latitude": 26.912424,
+                            "longitude": 75.787324
+                        },
+                        {
+                            "frame_number": 25,
+                            "timestamp_seconds": 0.8,
+                            "latitude": 26.912425,
+                            "longitude": 75.787325
+                        },
+                        {
+                            "frame_number": 26,
+                            "timestamp_seconds": 0.83,
+                            "latitude": 26.912426,
+                            "longitude": 75.787326
+                        },
+                        {
+                            "frame_number": 27,
+                            "timestamp_seconds": 0.87,
+                            "latitude": 26.912427,
+                            "longitude": 75.787327
+                        },
+                        {
+                            "frame_number": 28,
+                            "timestamp_seconds": 0.9,
+                            "latitude": 26.912428,
+                            "longitude": 75.787328
+                        }
+                    ],
+                    "evidence": {
+                        "start_frame": 1,
+                        "end_frame": 28,
+                        "start_timestamp": 0.0,
+                        "end_timestamp": 0.9
+                    },
+                    "location": {
+                        "latitude": 26.912416,
+                        "longitude": 75.787316
+                    }
+                },
+                {
+                    "candidate_id": "DAMAGE_CANDIDATE_21",
+                    "track_id": 21,
+                    "damage_type": "D40",
+                    "damage_name": "POTHOLE",
+                    "first_seen_frame": 12,
+                    "last_seen_frame": 21,
+                    "first_seen_timestamp": 0.37,
+                    "last_seen_timestamp": 0.67,
+                    "max_confidence": 0.6689,
+                    "observation_count": 9,
+                    "bus_id": "BUS_001",
+                    "gps_observations": [
+                        {
+                            "frame_number": 12,
+                            "timestamp_seconds": 0.37,
+                            "latitude": 26.912412,
+                            "longitude": 75.787312
+                        },
+                        {
+                            "frame_number": 13,
+                            "timestamp_seconds": 0.4,
+                            "latitude": 26.912413,
+                            "longitude": 75.787313
+                        },
+                        {
+                            "frame_number": 14,
+                            "timestamp_seconds": 0.43,
+                            "latitude": 26.912414,
+                            "longitude": 75.787314
+                        },
+                        {
+                            "frame_number": 15,
+                            "timestamp_seconds": 0.47,
+                            "latitude": 26.912415,
+                            "longitude": 75.787315
+                        },
+                        {
+                            "frame_number": 16,
+                            "timestamp_seconds": 0.5,
+                            "latitude": 26.912416,
+                            "longitude": 75.787316
+                        },
+                        {
+                            "frame_number": 17,
+                            "timestamp_seconds": 0.53,
+                            "latitude": 26.912417,
+                            "longitude": 75.787317
+                        },
+                        {
+                            "frame_number": 18,
+                            "timestamp_seconds": 0.57,
+                            "latitude": 26.912418,
+                            "longitude": 75.787318
+                        },
+                        {
+                            "frame_number": 20,
+                            "timestamp_seconds": 0.63,
+                            "latitude": 26.91242,
+                            "longitude": 75.78732
+                        },
+                        {
+                            "frame_number": 21,
+                            "timestamp_seconds": 0.67,
+                            "latitude": 26.912421,
+                            "longitude": 75.787321
+                        }
+                    ],
+                    "evidence": {
+                        "start_frame": 12,
+                        "end_frame": 21,
+                        "start_timestamp": 0.37,
+                        "end_timestamp": 0.67
+                    },
+                    "location": {
+                        "latitude": 26.912416,
+                        "longitude": 75.787316
+                    }
+                }
+            ],
+            "confirmation": {
+                "first_detected_date": "2026-09-14",
+                "last_detected_date": "2026-09-30",
+                "unique_bus_count": 1,
+                "unique_day_count": 8,
+                "total_confirmations": 180
+            }
+        }
+    ],
+    "historical_damage_count": 11
+}

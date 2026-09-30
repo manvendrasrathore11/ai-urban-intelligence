@@ -1,0 +1,115 @@
+{
+  "total_confirmed_frames": 9,
+  "worst_case": {
+    "frame_number": 60,
+    "timestamp_seconds": 1.9660113295568142,
+    "severity": "SEVERE",
+    "covered_ratio": 0.666,
+    "gps": {
+      "latitude": 26.91246,
+      "longitude": 75.78736
+    },
+    "bus_id": "BUS_001"
+  },
+  "events": [
+    {
+      "frame_number": 20,
+      "timestamp_seconds": 0.6331222925691435,
+      "severity": "SEVERE",
+      "covered_ratio": 0.5348,
+      "gps": {
+        "latitude": 26.91242,
+        "longitude": 75.78732
+      },
+      "bus_id": "BUS_001"
+    },
+    {
+      "frame_number": 25,
+      "timestamp_seconds": 0.7997334221926025,
+      "severity": "SEVERE",
+      "covered_ratio": 0.5489,
+      "gps": {
+        "latitude": 26.912425,
+        "longitude": 75.787325
+      },
+      "bus_id": "BUS_001"
+    },
+    {
+      "frame_number": 30,
+      "timestamp_seconds": 0.9663445518160613,
+      "severity": "SEVERE",
+      "covered_ratio": 0.5656,
+      "gps": {
+        "latitude": 26.91243,
+        "longitude": 75.78733
+      },
+      "bus_id": "BUS_001"
+    },
+    {
+      "frame_number": 35,
+      "timestamp_seconds": 1.13295568143952,
+      "severity": "SEVERE",
+      "covered_ratio": 0.5958,
+      "gps": {
+        "latitude": 26.912435,
+        "longitude": 75.787335
+      },
+      "bus_id": "BUS_001"
+    },
+    {
+      "frame_number": 40,
+      "timestamp_seconds": 1.299566811062979,
+      "severity": "SEVERE",
+      "covered_ratio": 0.6189,
+      "gps": {
+        "latitude": 26.91244,
+        "longitude": 75.78734
+      },
+      "bus_id": "BUS_001"
+    },
+    {
+      "frame_number": 45,
+      "timestamp_seconds": 1.4661779406864377,
+      "severity": "SEVERE",
+      "covered_ratio": 0.643,
+      "gps": {
+        "latitude": 26.912445,
+        "longitude": 75.787345
+      },
+      "bus_id": "BUS_001"
+    },
+    {
+      "frame_number": 50,
+      "timestamp_seconds": 1.6327890703098966,
+      "severity": "SEVERE",
+      "covered_ratio": 0.6619,
+      "gps": {
+        "latitude": 26.91245,
+        "longitude": 75.78735
+      },
+      "bus_id": "BUS_001"
+    },
+    {
+      "frame_number": 55,
+      "timestamp_seconds": 1.7994001999333555,
+      "severity": "SEVERE",
+      "covered_ratio": 0.6595,
+      "gps": {
+        "latitude": 26.912455,
+        "longitude": 75.787355
+      },
+      "bus_id": "BUS_001"
+    },
+    {
+      "frame_number": 60,
+      "timestamp_seconds": 1.9660113295568142,
+      "severity": "SEVERE",
+      "covered_ratio": 0.666,
+      "gps": {
+        "latitude": 26.91246,
+        "longitude": 75.78736
+      },
+      "bus_id": "BUS_001"
+    }
+  ]
+}

@@ -1,0 +1,836 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_1496640bbf947264f24f0b5d917a6cb7 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+    <div style="position: fixed; top: 12px; left: 60px; z-index: 9999;
+                background: white; padding: 12px 20px; border-radius: 10px;
+                box-shadow: 0 2px 10px rgba(0,0,0,0.35); font-family: Arial, sans-serif;
+                font-size: 13px; line-height: 1.6;">
+        <b style="font-size: 15px;">AI Urban Intelligence — Live Report</b><br>
+        Road Damage Points: <b>1</b><br>
+        Accident Events: <b>13</b><br>
+        Unique Plates Read: <b>1</b>
+    </div>
+    
+    
+            <div class="folium-map" id="map_1496640bbf947264f24f0b5d917a6cb7" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_1496640bbf947264f24f0b5d917a6cb7 = L.map(
+                "map_1496640bbf947264f24f0b5d917a6cb7",
+                {
+                    center: [19.07, 72.877],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_231c64e97b4ac0631b77679013ffbb21 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_231c64e97b4ac0631b77679013ffbb21.addTo(map_1496640bbf947264f24f0b5d917a6cb7);
+        
+    
+            var feature_group_c9286121ab3280cec64e787e447a531c = L.featureGroup(
+                {
+}
+            );
+        
+    
+            feature_group_c9286121ab3280cec64e787e447a531c.addTo(map_1496640bbf947264f24f0b5d917a6cb7);
+        
+    
+            var marker_cluster_f0f79797183bd295eab5548ba35c26b1 = L.markerClusterGroup(
+                {
+}
+            );
+        
+    
+            var marker_369930cfe7561bc10f8bd063e8381ce6 = L.marker(
+                [19.07, 72.877],
+                {
+}
+            ).addTo(marker_cluster_f0f79797183bd295eab5548ba35c26b1);
+        
+    
+            var icon_4955848036590a2bb743efa9f7fde0f6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-triangle",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1919183cca46d257b8df763f3c2125fd = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_4eacab603e67dfa6b8520f6197d125f0 = $(`<div id="html_4eacab603e67dfa6b8520f6197d125f0" style="width: 100.0%; height: 100.0%;">         <b>ACCIDENT — HIGH</b><br>         Event: ACC-1789629892<br>         Bus: BUS_001<br>         Time: 2026-09-17T12:54:52.898025<br>         Vehicles involved: 5<br>         Collision score: 58<br>         Alert sent: No         </div>`)[0];
+                popup_1919183cca46d257b8df763f3c2125fd.setContent(html_4eacab603e67dfa6b8520f6197d125f0);
+            
+        
+
+        marker_369930cfe7561bc10f8bd063e8381ce6.bindPopup(popup_1919183cca46d257b8df763f3c2125fd)
+        ;
+
+        
+    
+    
+            marker_369930cfe7561bc10f8bd063e8381ce6.bindTooltip(
+                `<div>
+                     Accident — HIGH
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_369930cfe7561bc10f8bd063e8381ce6.setIcon(icon_4955848036590a2bb743efa9f7fde0f6);
+            
+    
+            var marker_db1dc1aa191c6e2b1f9c1accc5823bb6 = L.marker(
+                [19.07, 72.877],
+                {
+}
+            ).addTo(marker_cluster_f0f79797183bd295eab5548ba35c26b1);
+        
+    
+            var icon_8a1ee401768bac405f9c605ea26f2e0a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-triangle",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8f1b4457078e5c5da3ac1467a1ab1bd5 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_079c15f394d91f4d9b62be7b72ff75dd = $(`<div id="html_079c15f394d91f4d9b62be7b72ff75dd" style="width: 100.0%; height: 100.0%;">         <b>ACCIDENT — HIGH</b><br>         Event: ACC-1789635430<br>         Bus: BUS_001<br>         Time: 2026-09-17T14:27:10.022015<br>         Vehicles involved: 5<br>         Collision score: 75<br>         Alert sent: No         </div>`)[0];
+                popup_8f1b4457078e5c5da3ac1467a1ab1bd5.setContent(html_079c15f394d91f4d9b62be7b72ff75dd);
+            
+        
+
+        marker_db1dc1aa191c6e2b1f9c1accc5823bb6.bindPopup(popup_8f1b4457078e5c5da3ac1467a1ab1bd5)
+        ;
+
+        
+    
+    
+            marker_db1dc1aa191c6e2b1f9c1accc5823bb6.bindTooltip(
+                `<div>
+                     Accident — HIGH
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_db1dc1aa191c6e2b1f9c1accc5823bb6.setIcon(icon_8a1ee401768bac405f9c605ea26f2e0a);
+            
+    
+            var marker_012a9f0f94f424782d61c6a2832256e2 = L.marker(
+                [19.07, 72.877],
+                {
+}
+            ).addTo(marker_cluster_f0f79797183bd295eab5548ba35c26b1);
+        
+    
+            var icon_9481819d54ed93ff61ec6d20b5f26d7b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-triangle",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ed3fa58b66fbdef46908623986b4ac8b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_63a13fda6e37fd351bb0af8ec0bf3217 = $(`<div id="html_63a13fda6e37fd351bb0af8ec0bf3217" style="width: 100.0%; height: 100.0%;">         <b>ACCIDENT — HIGH</b><br>         Event: ACC-1789636925<br>         Bus: BUS_001<br>         Time: 2026-09-17T14:52:05.176502<br>         Vehicles involved: 5<br>         Collision score: 62<br>         Alert sent: No         </div>`)[0];
+                popup_ed3fa58b66fbdef46908623986b4ac8b.setContent(html_63a13fda6e37fd351bb0af8ec0bf3217);
+            
+        
+
+        marker_012a9f0f94f424782d61c6a2832256e2.bindPopup(popup_ed3fa58b66fbdef46908623986b4ac8b)
+        ;
+
+        
+    
+    
+            marker_012a9f0f94f424782d61c6a2832256e2.bindTooltip(
+                `<div>
+                     Accident — HIGH
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_012a9f0f94f424782d61c6a2832256e2.setIcon(icon_9481819d54ed93ff61ec6d20b5f26d7b);
+            
+    
+            var marker_f2254dec5ecc6c6af10e68a646a37ab4 = L.marker(
+                [19.07, 72.877],
+                {
+}
+            ).addTo(marker_cluster_f0f79797183bd295eab5548ba35c26b1);
+        
+    
+            var icon_fa02164d2bc260db9e3f6ab26454b45b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-triangle",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_678331126a8fc46d744dbad8c4e06ec3 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f02e70215bd9d6e504aec6de35e7ab37 = $(`<div id="html_f02e70215bd9d6e504aec6de35e7ab37" style="width: 100.0%; height: 100.0%;">         <b>ACCIDENT — HIGH</b><br>         Event: ACC-1789654799<br>         Bus: BUS_001<br>         Time: 2026-09-17T19:49:59.069174<br>         Vehicles involved: 5<br>         Collision score: 63<br>         Alert sent: No         </div>`)[0];
+                popup_678331126a8fc46d744dbad8c4e06ec3.setContent(html_f02e70215bd9d6e504aec6de35e7ab37);
+            
+        
+
+        marker_f2254dec5ecc6c6af10e68a646a37ab4.bindPopup(popup_678331126a8fc46d744dbad8c4e06ec3)
+        ;
+
+        
+    
+    
+            marker_f2254dec5ecc6c6af10e68a646a37ab4.bindTooltip(
+                `<div>
+                     Accident — HIGH
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f2254dec5ecc6c6af10e68a646a37ab4.setIcon(icon_fa02164d2bc260db9e3f6ab26454b45b);
+            
+    
+            var marker_eebce2dbf256bf1ad3e8f766e78afad2 = L.marker(
+                [19.07, 72.877],
+                {
+}
+            ).addTo(marker_cluster_f0f79797183bd295eab5548ba35c26b1);
+        
+    
+            var icon_79334b8618e55671ef63feb94aeb0350 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-triangle",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a77e9aae01fa71a7ed776b6276384bf2 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2d660144d8f148df3a0b253a57358ff0 = $(`<div id="html_2d660144d8f148df3a0b253a57358ff0" style="width: 100.0%; height: 100.0%;">         <b>ACCIDENT — HIGH</b><br>         Event: ACC-1789659736<br>         Bus: BUS_001<br>         Time: 2026-09-17T21:12:16.943434<br>         Vehicles involved: 5<br>         Collision score: 63<br>         Alert sent: No         </div>`)[0];
+                popup_a77e9aae01fa71a7ed776b6276384bf2.setContent(html_2d660144d8f148df3a0b253a57358ff0);
+            
+        
+
+        marker_eebce2dbf256bf1ad3e8f766e78afad2.bindPopup(popup_a77e9aae01fa71a7ed776b6276384bf2)
+        ;
+
+        
+    
+    
+            marker_eebce2dbf256bf1ad3e8f766e78afad2.bindTooltip(
+                `<div>
+                     Accident — HIGH
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_eebce2dbf256bf1ad3e8f766e78afad2.setIcon(icon_79334b8618e55671ef63feb94aeb0350);
+            
+    
+            var marker_ed2e183351365eef8e7ceadc061ad446 = L.marker(
+                [19.07, 72.877],
+                {
+}
+            ).addTo(marker_cluster_f0f79797183bd295eab5548ba35c26b1);
+        
+    
+            var icon_19e20bed58f63cb3ed2a3ae8f17a5be6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-triangle",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c5bd353aded74dcb990feebe484c7642 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_0ebed30fa1fea38aa5a8f57ed8b92a6e = $(`<div id="html_0ebed30fa1fea38aa5a8f57ed8b92a6e" style="width: 100.0%; height: 100.0%;">         <b>ACCIDENT — HIGH</b><br>         Event: ACC-1789667347<br>         Bus: BUS_001<br>         Time: 2026-09-17T23:19:07.112259<br>         Vehicles involved: 5<br>         Collision score: 63<br>         Alert sent: No         </div>`)[0];
+                popup_c5bd353aded74dcb990feebe484c7642.setContent(html_0ebed30fa1fea38aa5a8f57ed8b92a6e);
+            
+        
+
+        marker_ed2e183351365eef8e7ceadc061ad446.bindPopup(popup_c5bd353aded74dcb990feebe484c7642)
+        ;
+
+        
+    
+    
+            marker_ed2e183351365eef8e7ceadc061ad446.bindTooltip(
+                `<div>
+                     Accident — HIGH
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_ed2e183351365eef8e7ceadc061ad446.setIcon(icon_19e20bed58f63cb3ed2a3ae8f17a5be6);
+            
+    
+            var marker_a521de0bbd44c6332f9d58b92fc2450b = L.marker(
+                [19.07, 72.877],
+                {
+}
+            ).addTo(marker_cluster_f0f79797183bd295eab5548ba35c26b1);
+        
+    
+            var icon_93e7f2dc27d6a68704895f5c4e51e8aa = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-triangle",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e5a963c1488f48974b5a7640dcb3cf31 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_cddf89b01898385e78fe455bdfb2840e = $(`<div id="html_cddf89b01898385e78fe455bdfb2840e" style="width: 100.0%; height: 100.0%;">         <b>ACCIDENT — HIGH</b><br>         Event: ACC-1789669630<br>         Bus: BUS_001<br>         Time: 2026-09-17T23:57:10.487734<br>         Vehicles involved: 5<br>         Collision score: 63<br>         Alert sent: No<br>Nearest police: Nehru Nagar Kurla E Police Chowky (0.68 km)<br>Nearest hospital: arpan nursing home (0.14 km)         </div>`)[0];
+                popup_e5a963c1488f48974b5a7640dcb3cf31.setContent(html_cddf89b01898385e78fe455bdfb2840e);
+            
+        
+
+        marker_a521de0bbd44c6332f9d58b92fc2450b.bindPopup(popup_e5a963c1488f48974b5a7640dcb3cf31)
+        ;
+
+        
+    
+    
+            marker_a521de0bbd44c6332f9d58b92fc2450b.bindTooltip(
+                `<div>
+                     Accident — HIGH
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a521de0bbd44c6332f9d58b92fc2450b.setIcon(icon_93e7f2dc27d6a68704895f5c4e51e8aa);
+            
+    
+            var marker_adc4ee28d9d7d91ee41f4bc10717a0bf = L.marker(
+                [19.07, 72.877],
+                {
+}
+            ).addTo(marker_cluster_f0f79797183bd295eab5548ba35c26b1);
+        
+    
+            var icon_cb299475e32c72adeb172394c9c00d24 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-triangle",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fdb7bc6be23397e5ea89c40db9d5bafd = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_71033ba7c3e30949f9ad8758d726cc5e = $(`<div id="html_71033ba7c3e30949f9ad8758d726cc5e" style="width: 100.0%; height: 100.0%;">         <b>ACCIDENT — HIGH</b><br>         Event: ACC-1789671000<br>         Bus: BUS_001<br>         Time: 2026-09-18T00:20:00.958958<br>         Vehicles involved: 5<br>         Collision score: 63<br>         Alert sent: Yes<br>Nearest police: Nehru Nagar Kurla E Police Chowky (0.68 km)<br>Nearest hospital: arpan nursing home (0.14 km)         </div>`)[0];
+                popup_fdb7bc6be23397e5ea89c40db9d5bafd.setContent(html_71033ba7c3e30949f9ad8758d726cc5e);
+            
+        
+
+        marker_adc4ee28d9d7d91ee41f4bc10717a0bf.bindPopup(popup_fdb7bc6be23397e5ea89c40db9d5bafd)
+        ;
+
+        
+    
+    
+            marker_adc4ee28d9d7d91ee41f4bc10717a0bf.bindTooltip(
+                `<div>
+                     Accident — HIGH
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_adc4ee28d9d7d91ee41f4bc10717a0bf.setIcon(icon_cb299475e32c72adeb172394c9c00d24);
+            
+    
+            var marker_683d4253a411047897623182f055e0dc = L.marker(
+                [19.07, 72.877],
+                {
+}
+            ).addTo(marker_cluster_f0f79797183bd295eab5548ba35c26b1);
+        
+    
+            var icon_7f2b821ee3d122d8ed8d715fc4461a63 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-triangle",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fefd76bcd8387f05cee4d2239ae068e6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_0d73177b0b1fdf396555effa9c990c9a = $(`<div id="html_0d73177b0b1fdf396555effa9c990c9a" style="width: 100.0%; height: 100.0%;">         <b>ACCIDENT — HIGH</b><br>         Event: ACC-1789672018<br>         Bus: BUS_001<br>         Time: 2026-09-18T00:36:58.085851<br>         Vehicles involved: 5<br>         Collision score: 63<br>         Alert sent: Yes<br>Nearest police: Nehru Nagar Kurla E Police Chowky (0.68 km)<br>Nearest hospital: arpan nursing home (0.14 km)<br><img src="assets/accidents/accident_frame_420.jpg" width="220">         </div>`)[0];
+                popup_fefd76bcd8387f05cee4d2239ae068e6.setContent(html_0d73177b0b1fdf396555effa9c990c9a);
+            
+        
+
+        marker_683d4253a411047897623182f055e0dc.bindPopup(popup_fefd76bcd8387f05cee4d2239ae068e6)
+        ;
+
+        
+    
+    
+            marker_683d4253a411047897623182f055e0dc.bindTooltip(
+                `<div>
+                     Accident — HIGH
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_683d4253a411047897623182f055e0dc.setIcon(icon_7f2b821ee3d122d8ed8d715fc4461a63);
+            
+    
+            var marker_c5f127cbf851b6fa467d83a59ea60e1a = L.marker(
+                [19.07, 72.877],
+                {
+}
+            ).addTo(marker_cluster_f0f79797183bd295eab5548ba35c26b1);
+        
+    
+            var icon_45e8fc66186650f25062f279447ea816 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-triangle",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6eb3c2c21d02707eb75ccf25f576203b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c1b2fbb4807d82e0324d3761dac881f1 = $(`<div id="html_c1b2fbb4807d82e0324d3761dac881f1" style="width: 100.0%; height: 100.0%;">         <b>ACCIDENT — HIGH</b><br>         Event: ACC-1789673242<br>         Bus: BUS_001<br>         Time: 2026-09-18T00:57:22.318579<br>         Vehicles involved: 5<br>         Collision score: 63<br>         Alert sent: Yes<br><img src="assets/accidents/accident_frame_420.jpg" width="220">         </div>`)[0];
+                popup_6eb3c2c21d02707eb75ccf25f576203b.setContent(html_c1b2fbb4807d82e0324d3761dac881f1);
+            
+        
+
+        marker_c5f127cbf851b6fa467d83a59ea60e1a.bindPopup(popup_6eb3c2c21d02707eb75ccf25f576203b)
+        ;
+
+        
+    
+    
+            marker_c5f127cbf851b6fa467d83a59ea60e1a.bindTooltip(
+                `<div>
+                     Accident — HIGH
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c5f127cbf851b6fa467d83a59ea60e1a.setIcon(icon_45e8fc66186650f25062f279447ea816);
+            
+    
+            var marker_85eff14356e65198773f67816e99ee02 = L.marker(
+                [19.07, 72.877],
+                {
+}
+            ).addTo(marker_cluster_f0f79797183bd295eab5548ba35c26b1);
+        
+    
+            var icon_411b12651415fcfcbab83838cd96842b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-triangle",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_efec00cfd395839bb34edb67976a6139 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d703876e0a7314b527d041c1f8a77604 = $(`<div id="html_d703876e0a7314b527d041c1f8a77604" style="width: 100.0%; height: 100.0%;">         <b>ACCIDENT — HIGH</b><br>         Event: ACC-1789676640<br>         Bus: BUS_001<br>         Time: 2026-09-18T01:54:00.456340<br>         Vehicles involved: 6<br>         Collision score: 79<br>         Alert sent: Yes<br>Nearest police: Nehru Nagar Kurla E Police Chowky (0.68 km)<br>Nearest hospital: arpan nursing home (0.14 km)<br><img src="assets/accidents/accident_frame_129.jpg" width="220">         </div>`)[0];
+                popup_efec00cfd395839bb34edb67976a6139.setContent(html_d703876e0a7314b527d041c1f8a77604);
+            
+        
+
+        marker_85eff14356e65198773f67816e99ee02.bindPopup(popup_efec00cfd395839bb34edb67976a6139)
+        ;
+
+        
+    
+    
+            marker_85eff14356e65198773f67816e99ee02.bindTooltip(
+                `<div>
+                     Accident — HIGH
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_85eff14356e65198773f67816e99ee02.setIcon(icon_411b12651415fcfcbab83838cd96842b);
+            
+    
+            var marker_95fc558ab44bf149bc4e41e4a3e1b01f = L.marker(
+                [19.07, 72.877],
+                {
+}
+            ).addTo(marker_cluster_f0f79797183bd295eab5548ba35c26b1);
+        
+    
+            var icon_7658f8a792b232a67fef5f28fef9009f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-triangle",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f053b585c9b3d25f6d5c71babdf4acb3 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_cbb9bb1bb69a59f2eb58f001342b7109 = $(`<div id="html_cbb9bb1bb69a59f2eb58f001342b7109" style="width: 100.0%; height: 100.0%;">         <b>ACCIDENT — HIGH</b><br>         Event: ACC-1789679259<br>         Bus: BUS_001<br>         Time: 2026-09-18T02:37:39.431982<br>         Vehicles involved: 6<br>         Collision score: 77<br>         Alert sent: Yes<br>Nearest police: Nehru Nagar Kurla E Police Chowky (0.68 km)<br>Nearest hospital: arpan nursing home (0.14 km)<br><img src="assets/accidents/accident_frame_129.jpg" width="220">         </div>`)[0];
+                popup_f053b585c9b3d25f6d5c71babdf4acb3.setContent(html_cbb9bb1bb69a59f2eb58f001342b7109);
+            
+        
+
+        marker_95fc558ab44bf149bc4e41e4a3e1b01f.bindPopup(popup_f053b585c9b3d25f6d5c71babdf4acb3)
+        ;
+
+        
+    
+    
+            marker_95fc558ab44bf149bc4e41e4a3e1b01f.bindTooltip(
+                `<div>
+                     Accident — HIGH
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_95fc558ab44bf149bc4e41e4a3e1b01f.setIcon(icon_7658f8a792b232a67fef5f28fef9009f);
+            
+    
+            var marker_b45a2bcfca03d03e2c2e8d4a62a25cdc = L.marker(
+                [19.07, 72.877],
+                {
+}
+            ).addTo(marker_cluster_f0f79797183bd295eab5548ba35c26b1);
+        
+    
+            var icon_00d4eef2e828519e4ce17e3631b28500 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-triangle",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a4458de0506eb71cf124f32a8eeba831 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6863ccb0b61929645f9d3003fab1830c = $(`<div id="html_6863ccb0b61929645f9d3003fab1830c" style="width: 100.0%; height: 100.0%;">         <b>ACCIDENT — HIGH</b><br>         Event: ACC-1789704392<br>         Bus: BUS_001<br>         Time: 2026-09-18T09:36:32.862432<br>         Vehicles involved: 6<br>         Collision score: 77<br>         Alert sent: Yes<br>Nearest police: Nehru Nagar Kurla E Police Chowky (0.68 km)<br>Nearest hospital: arpan nursing home (0.14 km)<br><img src="assets/accidents/accident_frame_129.jpg" width="220">         </div>`)[0];
+                popup_a4458de0506eb71cf124f32a8eeba831.setContent(html_6863ccb0b61929645f9d3003fab1830c);
+            
+        
+
+        marker_b45a2bcfca03d03e2c2e8d4a62a25cdc.bindPopup(popup_a4458de0506eb71cf124f32a8eeba831)
+        ;
+
+        
+    
+    
+            marker_b45a2bcfca03d03e2c2e8d4a62a25cdc.bindTooltip(
+                `<div>
+                     Accident — HIGH
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b45a2bcfca03d03e2c2e8d4a62a25cdc.setIcon(icon_00d4eef2e828519e4ce17e3631b28500);
+            
+    
+            marker_cluster_f0f79797183bd295eab5548ba35c26b1.addTo(map_1496640bbf947264f24f0b5d917a6cb7);
+        
+    
+            var feature_group_4b18deb31da4bc483e47230fbb39ecbe = L.featureGroup(
+                {
+}
+            );
+        
+    
+            var marker_53625675fa1a5f4072301e650064019d = L.marker(
+                [19.07, 72.877],
+                {
+}
+            ).addTo(feature_group_4b18deb31da4bc483e47230fbb39ecbe);
+        
+    
+            var icon_5fa674654b0fc30794f8fd06e2e3859c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "car",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e6e79964e14b88c182ec9c75ddbde972 = L.popup({
+  "maxWidth": 260,
+});
+
+        
+            
+                var html_a915993d4237ac4f058b83c62d5283a3 = $(`<div id="html_a915993d4237ac4f058b83c62d5283a3" style="width: 100.0%; height: 100.0%;">         <b>KA05NA7717</b><br>         Vehicle: car<br>         OCR confidence: 66%<br>         Reads: 1 (votes: 1)<br>         Bus: BUS_001<br>         Time: 2026-09-18T11:22:25.511845<br><img src="assets/anpr/KA05NA7717_track_3_frame_45.jpg" width="200">         </div>`)[0];
+                popup_e6e79964e14b88c182ec9c75ddbde972.setContent(html_a915993d4237ac4f058b83c62d5283a3);
+            
+        
+
+        marker_53625675fa1a5f4072301e650064019d.bindPopup(popup_e6e79964e14b88c182ec9c75ddbde972)
+        ;
+
+        
+    
+    
+            marker_53625675fa1a5f4072301e650064019d.bindTooltip(
+                `<div>
+                     KA05NA7717
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_53625675fa1a5f4072301e650064019d.setIcon(icon_5fa674654b0fc30794f8fd06e2e3859c);
+            
+    
+            feature_group_4b18deb31da4bc483e47230fbb39ecbe.addTo(map_1496640bbf947264f24f0b5d917a6cb7);
+        
+    
+            var layer_control_bcd3dd0f3281344ac1bdc93f4a2a28cc_layers = {
+                base_layers : {
+                    "cartodbpositron" : tile_layer_231c64e97b4ac0631b77679013ffbb21,
+                },
+                overlays :  {
+                    "Road Damage (1)" : feature_group_c9286121ab3280cec64e787e447a531c,
+                    "Accidents (13)" : marker_cluster_f0f79797183bd295eab5548ba35c26b1,
+                    "Number Plates (1)" : feature_group_4b18deb31da4bc483e47230fbb39ecbe,
+                },
+            };
+            let layer_control_bcd3dd0f3281344ac1bdc93f4a2a28cc = L.control.layers(
+                layer_control_bcd3dd0f3281344ac1bdc93f4a2a28cc_layers.base_layers,
+                layer_control_bcd3dd0f3281344ac1bdc93f4a2a28cc_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": false,
+  "autoZIndex": true,
+}
+            ).addTo(map_1496640bbf947264f24f0b5d917a6cb7);
+
+        
+</script>
+</html>

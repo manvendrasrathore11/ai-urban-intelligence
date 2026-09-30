@@ -1,0 +1,215 @@
+[
+    {
+        "damage_id": "ROAD_DAMAGE_001",
+        "damage_type": "D40",
+        "damage_name": "POTHOLE",
+        "location": {
+            "latitude": 26.912402,
+            "longitude": 75.787302
+        },
+        "bus_ids": [
+            "BUS_001"
+        ],
+        "detection_dates": [
+            "2026-09-14",
+            "2026-09-15",
+            "2026-09-17",
+            "2026-09-18",
+            "2026-09-25"
+        ],
+        "first_detected_date": "2026-09-14",
+        "last_detected_date": "2026-09-25",
+        "total_confirmations": 112
+    },
+    {
+        "damage_id": "ROAD_DAMAGE_002",
+        "damage_type": "D40",
+        "damage_name": "POTHOLE",
+        "location": {
+            "latitude": 26.912857,
+            "longitude": 75.787757
+        },
+        "bus_ids": [
+            "BUS_001"
+        ],
+        "detection_dates": [
+            "2026-09-15",
+            "2026-09-17",
+            "2026-09-18"
+        ],
+        "first_detected_date": "2026-09-15",
+        "last_detected_date": "2026-09-18",
+        "total_confirmations": 126
+    },
+    {
+        "damage_id": "ROAD_DAMAGE_003",
+        "damage_type": "D40",
+        "damage_name": "POTHOLE",
+        "location": {
+            "latitude": 26.912933,
+            "longitude": 75.787833
+        },
+        "bus_ids": [
+            "BUS_001"
+        ],
+        "detection_dates": [
+            "2026-09-15"
+        ],
+        "first_detected_date": "2026-09-15",
+        "last_detected_date": "2026-09-15",
+        "total_confirmations": 1
+    },
+    {
+        "damage_id": "ROAD_DAMAGE_002",
+        "damage_type": "D40",
+        "damage_name": "POTHOLE",
+        "location": {
+            "latitude": 26.912631,
+            "longitude": 75.787531
+        },
+        "bus_ids": [
+            "BUS_001"
+        ],
+        "detection_dates": [
+            "2026-09-17",
+            "2026-09-18",
+            "2026-09-25"
+        ],
+        "first_detected_date": "2026-09-17",
+        "last_detected_date": "2026-09-25",
+        "total_confirmations": 34
+    },
+    {
+        "damage_id": "ROAD_DAMAGE_003",
+        "damage_type": "D40",
+        "damage_name": "POTHOLE",
+        "location": {
+            "latitude": 26.912505,
+            "longitude": 75.787405
+        },
+        "bus_ids": [
+            "BUS_001"
+        ],
+        "detection_dates": [
+            "2026-09-17",
+            "2026-09-18",
+            "2026-09-25"
+        ],
+        "first_detected_date": "2026-09-17",
+        "last_detected_date": "2026-09-25",
+        "total_confirmations": 64
+    },
+    {
+        "damage_id": "ROAD_DAMAGE_002",
+        "damage_type": "D40",
+        "damage_name": "POTHOLE",
+        "location": {
+            "latitude": 26.913152,
+            "longitude": 75.788052
+        },
+        "bus_ids": [
+            "BUS_001"
+        ],
+        "detection_dates": [
+            "2026-09-17"
+        ],
+        "first_detected_date": "2026-09-17",
+        "last_detected_date": "2026-09-17",
+        "total_confirmations": 1
+    },
+    {
+        "damage_id": "ROAD_DAMAGE_003",
+        "damage_type": "D40",
+        "damage_name": "POTHOLE",
+        "location": {
+            "latitude": 26.913297,
+            "longitude": 75.788197
+        },
+        "bus_ids": [
+            "BUS_001"
+        ],
+        "detection_dates": [
+            "2026-09-17",
+            "2026-09-18"
+        ],
+        "first_detected_date": "2026-09-17",
+        "last_detected_date": "2026-09-18",
+        "total_confirmations": 53
+    },
+    {
+        "damage_id": "ROAD_DAMAGE_003",
+        "damage_type": "D40",
+        "damage_name": "POTHOLE",
+        "location": {
+            "latitude": 26.913556,
+            "longitude": 75.788456
+        },
+        "bus_ids": [
+            "BUS_001"
+        ],
+        "detection_dates": [
+            "2026-09-17",
+            "2026-09-18"
+        ],
+        "first_detected_date": "2026-09-17",
+        "last_detected_date": "2026-09-18",
+        "total_confirmations": 24
+    },
+    {
+        "damage_id": "ROAD_DAMAGE_001",
+        "damage_type": "D00",
+        "damage_name": "LONGITUDINAL CRACK",
+        "location": {
+            "latitude": 26.912406,
+            "longitude": 75.787306
+        },
+        "bus_ids": [
+            "BUS_001"
+        ],
+        "detection_dates": [
+            "2026-09-18"
+        ],
+        "first_detected_date": "2026-09-18",
+        "last_detected_date": "2026-09-18",
+        "total_confirmations": 13,
+        "status": "CONFIRMED"
+    },
+    {
+        "damage_id": "ROAD_DAMAGE_002",
+        "damage_type": "D20",
+        "damage_name": "ALLIGATOR CRACK",
+        "location": {
+            "latitude": 26.912471,
+            "longitude": 75.78737
+        },
+        "bus_ids": [
+            "BUS_001"
+        ],
+        "detection_dates": [
+            "2026-09-18"
+        ],
+        "first_detected_date": "2026-09-18",
+        "last_detected_date": "2026-09-18",
+        "total_confirmations": 8,
+        "status": "CONFIRMED"
+    },
+    {
+        "damage_id": "ROAD_DAMAGE_003",
+        "damage_type": "D20",
+        "damage_name": "ALLIGATOR CRACK",
+        "location": {
+            "latitude": 26.912693,
+            "longitude": 75.787593
+        },
+        "bus_ids": [
+            "BUS_001"
+        ],
+        "detection_dates": [
+            "2026-09-18"
+        ],
+        "first_detected_date": "2026-09-18",
+        "last_detected_date": "2026-09-18",
+        "total_confirmations": 2,
+        "status": "CONFIRMED"
+    }
+]

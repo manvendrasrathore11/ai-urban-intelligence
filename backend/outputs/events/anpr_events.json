@@ -1,0 +1,27 @@
+{
+    "pipeline": "AI Urban Intelligence ANPR",
+    "generated_at": "2026-09-25T13:44:39.255253",
+    "total_unique_vehicles": 1,
+    "plates": [
+        {
+            "event_type": "vehicle_plate_sighting",
+            "vehicle_track_id": 3,
+            "vehicle_class": "car",
+            "plate_text": "KA05NA7717",
+            "ocr_confidence": 0.656,
+            "read_count": 1,
+            "plate_vote_count": 1,
+            "first_frame": 45,
+            "last_frame": 45,
+            "first_timestamp_seconds": 1.4661779406864377,
+            "last_timestamp_seconds": 1.4661779406864377,
+            "bus_id": "BUS_001",
+            "gps": {
+                "latitude": 19.07,
+                "longitude": 72.877
+            },
+            "evidence_image": "C:\\Users\\manvendra\\100xschool\\ai-urban-intelligence\\outputs\\evidence\\anpr\\plates\\KA05NA7717_track_3_frame_45.jpg",
+            "timestamp": "2026-09-25T13:44:39.255253"
+        }
+    ]
+}

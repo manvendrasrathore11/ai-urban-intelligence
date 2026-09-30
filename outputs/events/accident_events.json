@@ -1,0 +1,567 @@
+[
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1789629892",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-17T12:54:52.898025",
+        "frame_number": 418,
+        "timestamp_seconds": 13.93,
+        "collision_count": 58,
+        "vehicle_count": 5,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": "..\\outputs\\videos\\accident_evidence\\accident_frame_418.jpg"
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1789635430",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-17T14:27:10.022015",
+        "frame_number": 418,
+        "timestamp_seconds": 13.9,
+        "collision_count": 75,
+        "vehicle_count": 5,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": null
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1789636925",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-17T14:52:05.176502",
+        "frame_number": 418,
+        "timestamp_seconds": 13.9,
+        "collision_count": 62,
+        "vehicle_count": 5,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": null
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1789654799",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-17T19:49:59.069174",
+        "frame_number": 420,
+        "timestamp_seconds": 13.97,
+        "collision_count": 63,
+        "vehicle_count": 5,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": null
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1789659736",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-17T21:12:16.943434",
+        "frame_number": 420,
+        "timestamp_seconds": 13.97,
+        "collision_count": 63,
+        "vehicle_count": 5,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": null
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1789667347",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-17T23:19:07.112259",
+        "frame_number": 420,
+        "timestamp_seconds": 13.97,
+        "collision_count": 63,
+        "vehicle_count": 5,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": null
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1789669630",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-17T23:57:10.487734",
+        "frame_number": 420,
+        "timestamp_seconds": 13.97,
+        "collision_count": 63,
+        "vehicle_count": 5,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": null
+        },
+        "nearest_services": {
+            "police": {
+                "name": "Nehru Nagar Kurla E Police Chowky",
+                "latitude": 19.0650661,
+                "longitude": 72.8808749,
+                "distance_km": 0.68
+            },
+            "hospital": {
+                "name": "arpan nursing home",
+                "latitude": 19.0693933,
+                "longitude": 72.8781202,
+                "distance_km": 0.14
+            }
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1789671000",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-18T00:20:00.958958",
+        "frame_number": 420,
+        "timestamp_seconds": 13.97,
+        "collision_count": 63,
+        "vehicle_count": 5,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": null
+        },
+        "nearest_services": {
+            "police": {
+                "name": "Nehru Nagar Kurla E Police Chowky",
+                "latitude": 19.0650661,
+                "longitude": 72.8808749,
+                "distance_km": 0.68
+            },
+            "hospital": {
+                "name": "arpan nursing home",
+                "latitude": 19.0693933,
+                "longitude": 72.8781202,
+                "distance_km": 0.14
+            }
+        },
+        "email_alert": {
+            "sent": true
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1789672018",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-18T00:36:58.085851",
+        "frame_number": 420,
+        "timestamp_seconds": 13.97,
+        "collision_count": 63,
+        "vehicle_count": 5,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": "C:\\Users\\manvendra\\100xschool\\ai-urban-intelligence\\outputs\\evidence\\accident\\accident_frame_420.jpg"
+        },
+        "nearest_services": {
+            "police": {
+                "name": "Nehru Nagar Kurla E Police Chowky",
+                "latitude": 19.0650661,
+                "longitude": 72.8808749,
+                "distance_km": 0.68
+            },
+            "hospital": {
+                "name": "arpan nursing home",
+                "latitude": 19.0693933,
+                "longitude": 72.8781202,
+                "distance_km": 0.14
+            }
+        },
+        "email_alert": {
+            "sent": true
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1789673242",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-18T00:57:22.318579",
+        "frame_number": 420,
+        "timestamp_seconds": 13.97,
+        "collision_count": 63,
+        "vehicle_count": 5,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": "C:\\Users\\manvendra\\100xschool\\ai-urban-intelligence\\outputs\\evidence\\accident\\accident_frame_420.jpg"
+        },
+        "nearest_services": {
+            "police": null,
+            "hospital": null
+        },
+        "email_alert": {
+            "sent": true
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1789676640",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-18T01:54:00.456340",
+        "frame_number": 129,
+        "timestamp_seconds": 4.27,
+        "collision_count": 79,
+        "vehicle_count": 6,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": "C:\\Users\\manvendra\\100xschool\\ai-urban-intelligence\\outputs\\evidence\\accident\\accident_frame_129.jpg"
+        },
+        "nearest_services": {
+            "police": {
+                "name": "Nehru Nagar Kurla E Police Chowky",
+                "latitude": 19.0650661,
+                "longitude": 72.8808749,
+                "distance_km": 0.68
+            },
+            "hospital": {
+                "name": "arpan nursing home",
+                "latitude": 19.0693933,
+                "longitude": 72.8781202,
+                "distance_km": 0.14
+            }
+        },
+        "email_alert": {
+            "sent": true
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1789679259",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-18T02:37:39.431982",
+        "frame_number": 129,
+        "timestamp_seconds": 4.27,
+        "collision_count": 77,
+        "vehicle_count": 6,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": "C:\\Users\\manvendra\\100xschool\\ai-urban-intelligence\\outputs\\evidence\\accident\\accident_frame_129.jpg"
+        },
+        "nearest_services": {
+            "police": {
+                "name": "Nehru Nagar Kurla E Police Chowky",
+                "latitude": 19.0650661,
+                "longitude": 72.8808749,
+                "distance_km": 0.68
+            },
+            "hospital": {
+                "name": "arpan nursing home",
+                "latitude": 19.0693933,
+                "longitude": 72.8781202,
+                "distance_km": 0.14
+            }
+        },
+        "email_alert": {
+            "sent": true
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1789704392",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-18T09:36:32.862432",
+        "frame_number": 129,
+        "timestamp_seconds": 4.27,
+        "collision_count": 77,
+        "vehicle_count": 6,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": "C:\\Users\\manvendra\\100xschool\\ai-urban-intelligence\\outputs\\evidence\\accident\\accident_frame_129.jpg"
+        },
+        "nearest_services": {
+            "police": {
+                "name": "Nehru Nagar Kurla E Police Chowky",
+                "latitude": 19.0650661,
+                "longitude": 72.8808749,
+                "distance_km": 0.68
+            },
+            "hospital": {
+                "name": "arpan nursing home",
+                "latitude": 19.0693933,
+                "longitude": 72.8781202,
+                "distance_km": 0.14
+            }
+        },
+        "email_alert": {
+            "sent": true
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1789712419",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-18T11:50:19.346184",
+        "frame_number": 418,
+        "timestamp_seconds": 13.9,
+        "collision_count": 62,
+        "vehicle_count": 5,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": "C:\\Users\\manvendra\\100xschool\\ai-urban-intelligence\\outputs\\evidence\\accident\\accident_frame_418.jpg"
+        },
+        "nearest_services": {
+            "police": {
+                "name": "Nehru Nagar Kurla E Police Chowky",
+                "latitude": 19.0650661,
+                "longitude": 72.8808749,
+                "distance_km": 0.68
+            },
+            "hospital": {
+                "name": "arpan nursing home",
+                "latitude": 19.0693933,
+                "longitude": 72.8781202,
+                "distance_km": 0.14
+            }
+        },
+        "email_alert": {
+            "sent": true
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1789718436",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-18T13:30:36.086242",
+        "frame_number": 418,
+        "timestamp_seconds": 13.9,
+        "collision_count": 62,
+        "vehicle_count": 5,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": "C:\\Users\\manvendra\\100xschool\\ai-urban-intelligence\\outputs\\evidence\\accident\\accident_frame_418.jpg"
+        },
+        "nearest_services": {
+            "police": null,
+            "hospital": null
+        },
+        "email_alert": {
+            "sent": true
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1790323379",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-25T13:32:59.220892",
+        "frame_number": 418,
+        "timestamp_seconds": 13.9,
+        "collision_count": 62,
+        "vehicle_count": 5,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": "C:\\Users\\manvendra\\100xschool\\ai-urban-intelligence\\outputs\\evidence\\accident\\accident_frame_418.jpg"
+        },
+        "nearest_services": {
+            "police": {
+                "name": "Nehru Nagar Kurla E Police Chowky",
+                "latitude": 19.0650661,
+                "longitude": 72.8808749,
+                "distance_km": 0.68
+            },
+            "hospital": {
+                "name": "arpan nursing home",
+                "latitude": 19.0693933,
+                "longitude": 72.8781202,
+                "distance_km": 0.14
+            }
+        },
+        "email_alert": {
+            "sent": true
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1790324186",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-25T13:46:26.571923",
+        "frame_number": 418,
+        "timestamp_seconds": 13.9,
+        "collision_count": 62,
+        "vehicle_count": 5,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": "C:\\Users\\manvendra\\100xschool\\ai-urban-intelligence\\outputs\\evidence\\accident\\accident_frame_418.jpg"
+        },
+        "nearest_services": {
+            "police": {
+                "name": "Nehru Nagar Kurla E Police Chowky",
+                "latitude": 19.0650661,
+                "longitude": 72.8808749,
+                "distance_km": 0.68
+            },
+            "hospital": {
+                "name": "arpan nursing home",
+                "latitude": 19.0693933,
+                "longitude": 72.8781202,
+                "distance_km": 0.14
+            }
+        },
+        "email_alert": {
+            "sent": true
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1790324344",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-25T13:49:04.858993",
+        "frame_number": 418,
+        "timestamp_seconds": 13.9,
+        "collision_count": 62,
+        "vehicle_count": 5,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": "C:\\Users\\manvendra\\100xschool\\ai-urban-intelligence\\outputs\\evidence\\accident\\accident_frame_418.jpg"
+        },
+        "nearest_services": {
+            "police": {
+                "name": "Nehru Nagar Kurla E Police Chowky",
+                "latitude": 19.0650661,
+                "longitude": 72.8808749,
+                "distance_km": 0.68
+            },
+            "hospital": {
+                "name": "arpan nursing home",
+                "latitude": 19.0693933,
+                "longitude": 72.8781202,
+                "distance_km": 0.14
+            }
+        },
+        "email_alert": {
+            "sent": true
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1790324531",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-25T13:52:11.751521",
+        "frame_number": 418,
+        "timestamp_seconds": 13.9,
+        "collision_count": 62,
+        "vehicle_count": 5,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": "C:\\Users\\manvendra\\100xschool\\ai-urban-intelligence\\outputs\\evidence\\accident\\accident_frame_418.jpg"
+        },
+        "nearest_services": {
+            "police": {
+                "name": "Nehru Nagar Kurla E Police Chowky",
+                "latitude": 19.0650661,
+                "longitude": 72.8808749,
+                "distance_km": 0.68
+            },
+            "hospital": {
+                "name": "arpan nursing home",
+                "latitude": 19.0693933,
+                "longitude": 72.8781202,
+                "distance_km": 0.14
+            }
+        },
+        "email_alert": {
+            "sent": true
+        }
+    },
+    {
+        "event_type": "ACCIDENT",
+        "event_id": "ACC-1790324670",
+        "bus_id": "BUS_001",
+        "timestamp": "2026-09-25T13:54:30.137471",
+        "frame_number": 418,
+        "timestamp_seconds": 13.9,
+        "collision_count": 62,
+        "vehicle_count": 5,
+        "severity": "HIGH",
+        "gps": {
+            "latitude": 19.07,
+            "longitude": 72.877
+        },
+        "evidence": {
+            "image": "C:\\Users\\manvendra\\100xschool\\ai-urban-intelligence\\outputs\\evidence\\accident\\accident_frame_418.jpg"
+        },
+        "nearest_services": {
+            "police": null,
+            "hospital": null
+        },
+        "email_alert": {
+            "sent": true
+        }
+    }
+]
